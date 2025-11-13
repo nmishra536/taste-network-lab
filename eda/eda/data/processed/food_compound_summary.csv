@@ -1,0 +1,988 @@
+food_id,food_id,food_name,group,subgroup,category,compound_count
+506,506.0,"Cattle (Beef, Veal)",Animal foods,Bovines,specific,42560
+549,549.0,Domestic pig,Animal foods,Swine,specific,42556
+540,540.0,Rabbit,Animal foods,Lagomorphs,specific,42547
+505,505.0,Turkey,Animal foods,Poultry,specific,42543
+590,590.0,Anatidae,Animal foods,Poultry,specific,42540
+595,595.0,Mountain hare,Animal foods,Lagomorphs,specific,42539
+624,624.0,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,specific,42533
+611,611.0,Rock ptarmigan,Animal foods,Poultry,specific,42533
+334,334.0,Chicken,Animal foods,Poultry,specific,42516
+483,483.0,"Sheep (Mutton, Lamb)",Animal foods,Ovis,specific,42515
+535,535.0,Deer,Animal foods,Venison,specific,42501
+555,555.0,Quail,Animal foods,Poultry,specific,42496
+541,541.0,Domestic goat,Animal foods,Caprae,specific,42489
+542,542.0,Beefalo,Animal foods,Bovines,specific,42453
+310,310.0,Wild boar,Animal foods,Swine,specific,42429
+435,435.0,Velvet duck,Animal foods,Poultry,specific,42429
+383,383.0,Horse,Animal foods,Equines,specific,42429
+438,438.0,Pheasant,Animal foods,Poultry,specific,42429
+378,378.0,Guinea hen,Animal foods,Poultry,specific,42429
+303,303.0,Bison,Animal foods,Bovines,specific,42429
+430,430.0,Ostrich,Animal foods,Poultry,specific,42429
+365,365.0,Emu,Animal foods,Poultry,specific,42429
+316,316.0,Buffalo,Animal foods,Bovines,specific,42429
+364,364.0,Elk,Animal foods,Venison,specific,42429
+491,491.0,Squab,Animal foods,Poultry,specific,42429
+451,451.0,European rabbit,Animal foods,Lagomorphs,specific,42429
+373,373.0,Greylag goose,Animal foods,Poultry,specific,42428
+353,353.0,Mule deer,Animal foods,Venison,specific,42428
+358,358.0,Mallard duck,Animal foods,Poultry,specific,42428
+939,939.0,Black tea,Teas,Teas,,7453
+940,940.0,Green tea,Teas,Teas,,7450
+1021,1021.0,Herbal tea,Teas,Teas,,7410
+957,957.0,Red tea,Teas,Teas,,7408
+205,205.0,Corn,Cereals and cereal products,Cereals,specific,6639
+561,561.0,Common mushroom,Vegetables,Mushrooms,specific,6585
+567,567.0,Oyster mushroom,Vegetables,Mushrooms,specific,6572
+85,85.0,Soy bean,Soy,Soy,specific,6532
+6,6.0,Garden onion,Vegetables,Onion-family vegetables,specific,6485
+175,175.0,Potato,Vegetables,Tubers,specific,6467
+245,245.0,Carrot,Vegetables,Root vegetables,specific,6388
+909,909.0,Green bell pepper,Vegetables,Fruit vegetables,specific,6376
+912,912.0,Red bell pepper,Vegetables,Fruit vegetables,specific,6359
+22,22.0,Oat,Cereals and cereal products,Cereals,specific,6358
+88,88.0,Barley,Cereals and cereal products,Cereals,specific,6347
+57,57.0,Sweet orange,Fruits,Citrus,specific,6338
+206,206.0,Ginger,Herbs and Spices,Spices,specific,6332
+910,910.0,Yellow bell pepper,Vegetables,Fruit vegetables,specific,6329
+125,125.0,Rice,Cereals and cereal products,Cereals,specific,6325
+40,40.0,Pepper,Vegetables,Fruit vegetables,specific,6318
+15,15.0,Wild celery,Herbs and Spices,Spices,specific,6308
+187,187.0,Common wheat,Cereals and cereal products,Cereals,specific,6305
+105,105.0,Apple,Fruits,Pomes,specific,6303
+204,204.0,Common grape,Fruits,Berries,specific,6303
+911,911.0,Orange bell pepper,Vegetables,Fruit vegetables,specific,6295
+139,139.0,Pepper (Spice),Herbs and Spices,Spices,specific,6257
+575,575.0,Wheat,Cereals and cereal products,Cereals,specific,6242
+54,54.0,Lemon,Fruits,Citrus,specific,6241
+141,141.0,Common pea,Pulses,Peas,specific,6241
+171,171.0,Garden tomato,Vegetables,Fruit vegetables,specific,6241
+241,241.0,Welsh onion,Herbs and Spices,Herbs,specific,6239
+13,13.0,Dill,Herbs and Spices,Herbs,specific,6238
+79,79.0,Common buckwheat,Cereals and cereal products,Cereals,specific,6236
+86,86.0,Sunflower,Herbs and Spices,Oilseed crops,specific,6231
+169,169.0,Rye,Cereals and cereal products,Cereals,specific,6228
+226,226.0,Garden onion (var.),Vegetables,Onion-family vegetables,specific,6227
+112,112.0,Spearmint,Herbs and Spices,Herbs,specific,6220
+995,995.0,Green onion,Vegetables,Onion-family vegetables,,6216
+994,994.0,Red onion,Vegetables,Onion-family vegetables,,6215
+65,65.0,Cucumber,Gourds,Gourds,specific,6212
+880,880.0,Soft-necked garlic,Herbs and Spices,Herbs,specific,6206
+34,34.0,Broccoli,Vegetables,Cabbages,specific,6205
+159,159.0,Rosemary,Herbs and Spices,Herbs,specific,6204
+31,31.0,Cauliflower,Vegetables,Cabbages,specific,6201
+56,56.0,"Mandarin orange (Clementine, Tangerine)",Fruits,Citrus,specific,6200
+152,152.0,Pear,Fruits,Pomes,specific,6196
+131,131.0,Parsley,Herbs and Spices,Herbs,specific,6196
+72,72.0,Wild carrot,Vegetables,Root vegetables,specific,6195
+155,155.0,Blackcurrant,Fruits,Berries,specific,6195
+81,81.0,Fig,Fruits,Other fruits,specific,6191
+126,126.0,Millet,Cereals and cereal products,Cereals,specific,6191
+134,134.0,Common bean,Pulses,Beans,specific,6188
+119,119.0,Sweet basil,Herbs and Spices,Herbs,specific,6185
+150,150.0,Guava,Fruits,Tropical fruits,specific,6183
+178,178.0,Spinach,Vegetables,Leaf vegetables,specific,6181
+242,242.0,Hard wheat,Cereals and cereal products,Cereals,specific,6180
+151,151.0,Pomegranate,Fruits,Tropical fruits,specific,6175
+173,173.0,Garden tomato (var.),Vegetables,Fruit vegetables,specific,6174
+113,113.0,Peppermint,Herbs and Spices,Herbs,specific,6174
+165,165.0,Common sage,Herbs and Spices,Herbs,specific,6172
+41,41.0,Papaya,Fruits,Tropical fruits,specific,6170
+915,915.0,Green bean,Pulses,Beans,specific,6168
+913,913.0,Italian sweet red pepper,Vegetables,Fruit vegetables,specific,6166
+21,21.0,Asparagus,Vegetables,Shoot vegetables,specific,6160
+97,97.0,Sweet bay,Herbs and Spices,Herbs,specific,6160
+174,174.0,Eggplant,Vegetables,Fruit vegetables,specific,6159
+177,177.0,Sorghum,Cereals and cereal products,Cereals,specific,6159
+61,61.0,Coriander,Herbs and Spices,Herbs,specific,6159
+121,121.0,Olive,Vegetables,Fruit vegetables,specific,6154
+289,289.0,Amaranth,Herbs and Spices,Herbs,specific,6151
+450,450.0,Quinoa,Herbs and Spices,Other seeds,specific,6149
+500,500.0,Teff,Herbs and Spices,Herbs,specific,6148
+552,552.0,Oriental wheat,Cereals and cereal products,Cereals,specific,6148
+489,489.0,Spelt,Cereals and cereal products,Cereals,specific,6148
+52,52.0,Watermelon,Gourds,Gourds,specific,6148
+149,149.0,Peach,Fruits,Drupes,specific,6147
+82,82.0,Fennel,Herbs and Spices,Herbs,specific,6144
+193,193.0,Bilberry,Fruits,Berries,specific,6144
+179,179.0,Cloves,Herbs and Spices,Spices,specific,6143
+516,516.0,Wild rice,Cereals and cereal products,Cereals,specific,6143
+145,145.0,Sweet cherry,Fruits,Drupes,specific,6141
+83,83.0,Strawberry,Fruits,Berries,specific,6141
+101,101.0,Flaxseed,Herbs and Spices,Oilseed crops,specific,6135
+246,246.0,Triticale,Cereals and cereal products,Cereals,specific,6133
+95,95.0,Lettuce,Vegetables,Leaf vegetables,specific,6128
+919,919.0,White cabbage,Vegetables,Cabbages,specific,6127
+12,12.0,Pineapple,Fruits,Tropical fruits,specific,6126
+16,16.0,Peanut,Nuts,Nuts,specific,6125
+42,42.0,Safflower,Herbs and Spices,Oilseed crops,specific,6122
+8,8.0,Garlic,Herbs and Spices,Herbs,specific,6121
+93,93.0,Black walnut,Nuts,Nuts,specific,6120
+144,144.0,Apricot,Fruits,Drupes,specific,6120
+264,264.0,Red beetroot,Vegetables,Root vegetables,specific,6119
+80,80.0,Tartary buckwheat,Cereals and cereal products,Cereals,specific,6118
+43,43.0,Caraway,Herbs and Spices,Spices,specific,6118
+118,118.0,Nutmeg,Herbs and Spices,Spices,specific,6117
+129,129.0,Parsnip,Vegetables,Root vegetables,specific,6117
+181,181.0,Dandelion,Herbs and Spices,Herbs,specific,6117
+914,914.0,Yellow wax bean,Pulses,Beans,specific,6116
+235,235.0,Red rice,Cereals and cereal products,Cereals,specific,6116
+236,236.0,Annual wild rice,Cereals and cereal products,Cereals,specific,6116
+64,64.0,Muskmelon,Gourds,Gourds,specific,6115
+162,162.0,Red raspberry,Fruits,Berries,specific,6111
+148,148.0,Almond,Nuts,Nuts,specific,6110
+341,341.0,Coconut,Fruits,Tropical fruits,specific,6110
+444,444.0,French plantain,Fruits,Tropical fruits,specific,6109
+124,124.0,Common oregano,Herbs and Spices,Herbs,specific,6109
+147,147.0,European plum,Fruits,Drupes,specific,6108
+156,156.0,Redcurrant,Fruits,Berries,specific,6108
+200,200.0,Mung bean,Pulses,Beans,specific,6107
+186,186.0,Fenugreek,Herbs and Spices,Herbs,specific,6102
+374,374.0,Grape,Fruits,Berries,specific,6100
+53,53.0,Lime,Fruits,Citrus,specific,6099
+18,18.0,Horseradish,Herbs and Spices,Spices,specific,6099
+130,130.0,Avocado,Vegetables,Fruit vegetables,specific,6098
+166,166.0,Black elderberry,Fruits,Berries,specific,6096
+50,50.0,Chinese cinnamon,Herbs and Spices,Spices,specific,6095
+191,191.0,Highbush blueberry,Fruits,Berries,specific,6094
+180,180.0,Tamarind,Fruits,Tropical fruits,specific,6094
+154,154.0,Garden rhubarb,Vegetables,Stalk vegetables,specific,6093
+49,49.0,Chicory,Vegetables,Root vegetables,specific,6091
+153,153.0,Radish,Vegetables,Root vegetables,specific,6091
+11,11.0,Cashew nut,Nuts,Nuts,specific,6090
+135,135.0,Date,Fruits,Other fruits,specific,6090
+33,33.0,Kohlrabi,Vegetables,Root vegetables,specific,6089
+17,17.0,Burdock,Vegetables,Root vegetables,specific,6088
+68,68.0,Turmeric,Herbs and Spices,Spices,specific,6088
+157,157.0,Gooseberry,Fruits,Berries,specific,6086
+122,122.0,Sweet marjoram,Herbs and Spices,Herbs,specific,6085
+76,76.0,Loquat,Fruits,Tropical fruits,specific,6084
+36,36.0,Turnip,Herbs and Spices,Herbs,specific,6083
+881,881.0,Cabbage,Vegetables,Cabbages,specific,6082
+170,170.0,Sesame,Herbs and Spices,Oilseed crops,specific,6079
+183,183.0,Common thyme,Herbs and Spices,Herbs,specific,6078
+140,140.0,Pistachio,Nuts,Nuts,specific,6078
+106,106.0,Mango,Fruits,Tropical fruits,specific,6076
+192,192.0,American cranberry,Fruits,Berries,specific,6076
+32,32.0,Brussel sprouts,Vegetables,Cabbages,specific,6075
+98,98.0,Lentils,Pulses,Lentils,generic,6073
+436,436.0,Pepper (C. frutescens),Vegetables,Fruit vegetables,specific,6070
+48,48.0,Endive,Vegetables,Leaf vegetables,specific,6069
+137,137.0,Anise,Herbs and Spices,Herbs,specific,6069
+907,907.0,Green zucchini,Gourds,Gourds,specific,6068
+372,372.0,Ginkgo nuts,Herbs and Spices,Other seeds,specific,6068
+51,51.0,Ceylon cinnamon,Herbs and Spices,Spices,specific,6068
+146,146.0,Sour cherry,Fruits,Drupes,specific,6065
+24,24.0,Brazil nut,Nuts,Nuts,specific,6065
+918,918.0,Japanese pumpkin,Gourds,Gourds,specific,6064
+449,449.0,Prickly pear,Fruits,Tropical fruits,specific,6063
+67,67.0,Cumin,Herbs and Spices,Spices,specific,6063
+92,92.0,Sweet potato,Vegetables,Tubers,specific,6062
+4,4.0,Kiwi,Fruits,Tropical fruits,specific,6062
+288,288.0,Allspice,Herbs and Spices,Spices,specific,6061
+107,107.0,German camomile,Herbs and Spices,Herbs,specific,6061
+215,215.0,Celery stalks,Vegetables,Stalk vegetables,specific,6060
+9,9.0,Chives,Herbs and Spices,Herbs,specific,6060
+115,115.0,Bitter gourd,Gourds,Gourds,specific,6060
+194,194.0,Lingonberry,Fruits,Berries,specific,6059
+197,197.0,Broad bean,Pulses,Beans,specific,6059
+920,920.0,Romaine lettuce,Vegetables,Leaf vegetables,specific,6058
+47,47.0,Chickpea,Pulses,Peas,specific,6058
+256,256.0,Grapefruit,Fruits,Citrus,specific,6057
+214,214.0,Celeriac,Vegetables,Root vegetables,specific,6055
+69,69.0,Quince,Fruits,Pomes,specific,6054
+287,287.0,Alfalfa,Herbs and Spices,Herbs,specific,6053
+46,46.0,Roman camomile,Herbs and Spices,Herbs,specific,6052
+908,908.0,Yellow zucchini,Gourds,Gourds,specific,6052
+237,237.0,Swiss chard,Vegetables,Leaf vegetables,specific,6051
+74,74.0,Cardamom,Herbs and Spices,Spices,specific,6051
+19,19.0,Tarragon,Herbs and Spices,Herbs,specific,6050
+292,292.0,Asian pear,Fruits,Pomes,specific,6049
+63,63.0,Saffron,Herbs and Spices,Spices,specific,6049
+346,346.0,Cottonseed,Herbs and Spices,Oilseed crops,specific,6049
+5,5.0,Allium,Vegetables,Onion-family vegetables,specific,6046
+35,35.0,Chinese cabbage,Vegetables,Cabbages,specific,6046
+94,94.0,Common walnut,Nuts,Nuts,specific,6046
+99,99.0,Garden cress,Vegetables,Leaf vegetables,specific,6043
+906,906.0,Sunburst squash (pattypan squash),Gourds,Gourds,specific,6042
+66,66.0,Cucurbita,Gourds,Gourds,specific,6041
+71,71.0,Globe artichoke,Vegetables,Shoot vegetables,specific,6041
+128,128.0,Passion fruit,Fruits,Tropical fruits,specific,6040
+208,208.0,Banana,Fruits,Tropical fruits,specific,6040
+30,30.0,Common cabbage,Vegetables,Cabbages,specific,6038
+420,420.0,White mustard,Herbs and Spices,Spices,specific,6037
+138,138.0,Pine nut,Nuts,Nuts,specific,6036
+331,331.0,Cherimoya,Fruits,Tropical fruits,specific,6035
+44,44.0,Pecan nut,Nuts,Nuts,specific,6035
+28,28.0,Swede,Vegetables,Root vegetables,specific,6034
+188,188.0,"Vaccinium (Blueberry, Cranberry, Huckleberry)",Fruits,Berries,specific,6034
+229,229.0,Nectarine,Fruits,Drupes,specific,6034
+108,108.0,Lemon balm,Herbs and Spices,Herbs,specific,6034
+62,62.0,Common hazelnut,Nuts,Nuts,specific,6034
+427,427.0,Okra,Vegetables,Other vegetables,specific,6033
+456,456.0,Rose hip,Herbs and Spices,Herbs,specific,6033
+89,89.0,Hyssop,Herbs and Spices,Herbs,specific,6032
+143,143.0,"Prunus (Cherry, Plum)",Fruits,Drupes,specific,6028
+100,100.0,Lovage,Herbs and Spices,Herbs,specific,6027
+274,274.0,Pasta,Cereals and cereal products,Cereal products,specific,6027
+23,23.0,Star fruit,Fruits,Tropical fruits,specific,6027
+198,198.0,Adzuki bean,Pulses,Beans,specific,6025
+381,381.0,Hazelnut,Nuts,Nuts,specific,6024
+133,133.0,Lima bean,Pulses,Beans,specific,6023
+158,158.0,Watercress,Herbs and Spices,Herbs,specific,6021
+164,164.0,Sorrel,Herbs and Spices,Herbs,specific,6021
+395,395.0,Kale,Vegetables,Cabbages,specific,6020
+90,90.0,Star anise,Herbs and Spices,Spices,specific,6019
+45,45.0,Chestnut,Nuts,Nuts,specific,6019
+123,123.0,Pot marjoram,Herbs and Spices,Herbs,specific,6018
+348,348.0,Malus (Crab apple),Fruits,Pomes,specific,6018
+111,111.0,Cornmint,Herbs and Spices,Herbs,specific,6017
+457,457.0,Roselle,Herbs and Spices,Herbs,specific,6016
+328,328.0,Cassava,Vegetables,Tubers,specific,6015
+519,519.0,Yam,Vegetables,Tubers,specific,6015
+103,103.0,Lichee,Fruits,Tropical fruits,specific,6014
+392,392.0,Jerusalem artichoke,Vegetables,Tubers,specific,6014
+586,586.0,Cinnamon,Herbs and Spices,Spices,specific,6014
+249,249.0,Celery leaves,Herbs and Spices,Herbs,specific,6014
+29,29.0,Rape,Vegetables,Root vegetables,specific,6013
+330,330.0,Chayote,Gourds,Gourds,specific,6012
+110,110.0,Orange mint,Herbs and Spices,Herbs,specific,6012
+168,168.0,Winter savory,Herbs and Spices,Herbs,specific,6012
+332,332.0,Chervil,Herbs and Spices,Spices,specific,6011
+39,39.0,Capers,Herbs and Spices,Spices,specific,6011
+298,298.0,Bamboo shoots,Vegetables,Shoot vegetables,specific,6010
+605,605.0,Oil palm,Herbs and Spices,Oilseed crops,specific,6009
+2,2.0,Savoy cabbage,Vegetables,Cabbages,specific,6009
+622,622.0,Walnut,Nuts,Nuts,specific,6009
+261,261.0,Daikon radish,Vegetables,Root vegetables,specific,6008
+7,7.0,Leek,Vegetables,Onion-family vegetables,specific,6007
+252,252.0,Pak choy,Vegetables,Cabbages,specific,6006
+363,363.0,Elderberry,Fruits,Berries,specific,6006
+398,398.0,Kumquat,Fruits,Tropical fruits,specific,6006
+77,77.0,Rocket salad (ssp.),Vegetables,Leaf vegetables,specific,6006
+613,613.0,Black salsify,Vegetables,Root vegetables,specific,6005
+405,405.0,Loganberry,Fruits,Berries,specific,6005
+25,25.0,Common beet,Vegetables,Leaf vegetables,specific,6004
+583,583.0,Chanterelle,Vegetables,Mushrooms,specific,6004
+20,20.0,Mugwort,Herbs and Spices,Herbs,specific,6004
+376,376.0,Groundcherry,Vegetables,Fruit vegetables,specific,6003
+608,608.0,Persimmon,Fruits,Tropical fruits,specific,6003
+326,326.0,Carob,Vegetables,Other vegetables,specific,6003
+534,534.0,Black-eyed pea,Pulses,Peas,specific,6002
+620,620.0,Thistle,Vegetables,Root vegetables,specific,6002
+199,199.0,Gram bean,Pulses,Beans,specific,6000
+389,389.0,Jackfruit,Fruits,Tropical fruits,specific,6000
+401,401.0,Wild leek,Vegetables,Onion-family vegetables,specific,5999
+384,384.0,Horseradish tree,Vegetables,Other vegetables,specific,5998
+70,70.0,Lemon grass,Herbs and Spices,Herbs,specific,5996
+172,172.0,Cherry tomato,Vegetables,Fruit vegetables,specific,5996
+167,167.0,Summer savory,Herbs and Spices,Herbs,specific,5994
+73,73.0,Japanese persimmon,Fruits,Tropical fruits,specific,5993
+320,320.0,Butternut,Nuts,Nuts,specific,5992
+536,536.0,Macadamia nut,Nuts,Nuts,specific,5992
+132,132.0,Scarlet bean,Pulses,Beans,specific,5990
+488,488.0,Soursop,Fruits,Tropical fruits,specific,5990
+87,87.0,Sea-buckthornberry,Fruits,Berries,specific,5989
+318,318.0,Giant butterbur,Vegetables,Other vegetables,specific,5989
+562,562.0,Shiitake,Vegetables,Mushrooms,specific,5989
+14,14.0,Custard apple,Fruits,Tropical fruits,specific,5988
+312,312.0,Breadfruit,Fruits,Tropical fruits,specific,5987
+37,37.0,Pigeon pea,Pulses,Peas,specific,5987
+27,27.0,Chinese mustard,Vegetables,Cabbages,specific,5986
+26,26.0,Borage,Herbs and Spices,Oilseed crops,specific,5986
+407,407.0,Sacred lotus,Vegetables,Other vegetables,specific,5985
+189,189.0,Lowbush blueberry,Fruits,Berries,specific,5985
+496,496.0,Sugar apple,Fruits,Tropical fruits,specific,5983
+120,120.0,Evening primrose,Herbs and Spices,Oilseed crops,specific,5983
+161,161.0,Cloudberry,Fruits,Berries,specific,5983
+202,202.0,Cowpea,Pulses,Peas,specific,5982
+136,136.0,Black chokeberry,Fruits,Berries,specific,5982
+386,386.0,Hyacinth bean,Pulses,Beans,specific,5982
+368,368.0,European chestnut,Nuts,Nuts,specific,5982
+184,184.0,Linden,Herbs and Spices,Herbs,specific,5981
+314,314.0,Rapini,Vegetables,Cabbages,specific,5980
+445,445.0,American pokeweed,Vegetables,Shoot vegetables,specific,5980
+142,142.0,Purslane,Herbs and Spices,Herbs,specific,5980
+638,638.0,Bean,Pulses,Beans,specific,5978
+499,499.0,Taro,Vegetables,Root vegetables,specific,5978
+284,284.0,Winter squash,Gourds,Gourds,specific,5978
+467,467.0,Common salsify,Vegetables,Root vegetables,specific,5978
+520,520.0,Jicama,Vegetables,Root vegetables,specific,5978
+55,55.0,Pummelo,Fruits,Citrus,specific,5977
+569,569.0,Maitake,Vegetables,Mushrooms,specific,5976
+408,408.0,White lupine,Pulses,Other pulses,specific,5976
+558,558.0,Feijoa,Fruits,Tropical fruits,specific,5976
+411,411.0,Purple mangosteen,Fruits,Tropical fruits,specific,5975
+399,399.0,Lambsquarters,Vegetables,Leaf vegetables,specific,5974
+565,565.0,Enokitake,Vegetables,Mushrooms,specific,5973
+437,437.0,Common persimmon,Fruits,Tropical fruits,specific,5973
+557,557.0,Persian lime,Fruits,Citrus,specific,5971
+469,469.0,Mamey sapote,Fruits,Tropical fruits,specific,5971
+797,797.0,Canola,Herbs and spices,Oilseed crops,specific,5970
+227,227.0,Summer grape,Fruits,Berries,specific,5969
+394,394.0,Jute,Vegetables,Leaf vegetables,specific,5969
+441,441.0,Colorado pinyon,Nuts,Nuts,specific,5967
+230,230.0,Peach (var.),Fruits,Drupes,specific,5967
+863,863.0,Yellow pond-lily,Herbs and Spices,Herbs,specific,5967
+502,502.0,Mexican groundcherry,Vegetables,Fruit vegetables,specific,5967
+509,509.0,Wasabi,Herbs and Spices,Spices,specific,5967
+91,91.0,Swamp cabbage,Vegetables,Leaf vegetables,specific,5966
+576,576.0,Common chokecherry,Fruits,Drupes,specific,5965
+468,468.0,Sapodilla,Fruits,Tropical fruits,specific,5965
+243,243.0,Shallot,Vegetables,Onion-family vegetables,specific,5965
+322,322.0,Calabash,Gourds,Gourds,specific,5965
+321,321.0,Butternut squash,Gourds,Gourds,specific,5964
+338,338.0,Garland chrysanthemum,Vegetables,Leaf vegetables,specific,5964
+577,577.0,Agave,Vegetables,Other vegetables,specific,5964
+410,410.0,Mammee apple,Fruits,Tropical fruits,specific,5964
+291,291.0,Arrowroot,Vegetables,Tubers,specific,5964
+503,503.0,Towel gourd,Gourds,Gourds,specific,5963
+466,466.0,Salmonberry,Fruits,Berries,specific,5963
+518,518.0,Winged bean,Pulses,Beans,specific,5963
+195,195.0,Vanilla,Herbs and Spices,Spices,specific,5962
+391,391.0,Java plum,Fruits,Tropical fruits,specific,5962
+385,385.0,Alaska blueberry,Fruits,Berries,specific,5962
+510,510.0,Wax gourd,Gourds,Gourds,specific,5962
+813,813.0,Nance,Fruits,Tropical fruits,specific,5962
+247,247.0,Black cabbage,Vegetables,Cabbages,specific,5962
+422,422.0,New Zealand spinach,Vegetables,Leaf vegetables,specific,5961
+253,253.0,Napa cabbage,Vegetables,Cabbages,specific,5961
+409,409.0,Malabar spinach,Vegetables,Leaf vegetables,specific,5961
+337,337.0,Chinese water chestnut,Vegetables,Other vegetables,specific,5961
+416,416.0,Moth bean,Pulses,Beans,specific,5961
+423,423.0,Nopal,Vegetables,Other vegetables,specific,5960
+578,578.0,Narrowleaf cattail,Vegetables,Other vegetables,specific,5960
+448,448.0,Prairie turnip,Vegetables,Root vegetables,specific,5960
+556,556.0,Boysenberry,Fruits,Berries,specific,5959
+117,117.0,Black mulberry,Fruits,Berries,specific,5959
+521,521.0,Yautia,Vegetables,Leaf vegetables,specific,5959
+335,335.0,Chinese broccoli,Vegetables,Cabbages,specific,5959
+553,553.0,Yardlong bean,Pulses,Peas,specific,5958
+282,282.0,Acerola,Fruits,Tropical fruits,specific,5958
+814,814.0,Naranjilla,Fruits,Tropical fruits,specific,5958
+393,393.0,Jujube,Fruits,Other fruits,specific,5957
+203,203.0,Muscadine grape,Fruits,Berries,specific,5957
+916,916.0,Saskatoon berry,Fruits,Berries,specific,5957
+798,798.0,Babassu palm,Herbs and Spices,Oilseed crops,specific,5957
+109,109.0,Mentha,Herbs and Spices,Herbs,specific,5957
+417,417.0,Mountain yam,Vegetables,Tubers,specific,5957
+823,823.0,Tree fern,Vegetables,Other vegetables,specific,5956
+114,114.0,Medlar,Fruits,Pomes,specific,5956
+313,313.0,Breadnut tree seed,Herbs and Spices,Other seeds,specific,5956
+196,196.0,Common verbena,Herbs and Spices,Herbs,specific,5954
+382,382.0,Hickory nut,Nuts,Nuts,specific,5954
+323,323.0,Cardoon,Vegetables,Shoot vegetables,specific,5954
+355,355.0,Dock,Herbs and Spices,Herbs,specific,5954
+333,333.0,Chia,Herbs and Spices,Other seeds,specific,5954
+283,283.0,Acorn,Nuts,Nuts,specific,5953
+917,917.0,Nanking cherry,Fruits,Berries,specific,5953
+421,421.0,Mustard spinach,Vegetables,Cabbages,specific,5953
+257,257.0,Jostaberry,Fruits,Berries,specific,5953
+573,573.0,Tinda,Gourds,Gourds,specific,5953
+217,217.0,European cranberry,Fruits,Berries,specific,5952
+360,360.0,Durian,Fruits,Tropical fruits,specific,5952
+345,345.0,Corn salad,Vegetables,Leaf vegetables,specific,5952
+390,390.0,Japanese chestnut,Nuts,Nuts,specific,5952
+559,559.0,Rowal,Herbs and Spices,Other seeds,specific,5951
+281,281.0,Abiyuch,Fruits,Tropical fruits,specific,5951
+443,443.0,Plains prickly pear,Fruits,Tropical fruits,specific,5951
+485,485.0,Hedge mustard,Herbs and Spices,Other seeds,specific,5951
+347,347.0,Catjang pea,Pulses,Peas,specific,5951
+75,75.0,Black crowberry,Fruits,Berries,specific,5950
+336,336.0,Chinese chestnut,Nuts,Nuts,specific,5950
+290,290.0,Arrowhead,Vegetables,Tubers,specific,5950
+116,116.0,Mulberry,Fruits,Berries,specific,5950
+102,102.0,Mexican oregano,Herbs and Spices,Herbs,specific,5950
+406,406.0,Lotus,Herbs and Spices,Other seeds,specific,5950
+211,211.0,Canada blueberry,Fruits,Berries,specific,5950
+493,493.0,Strawberry guava,Fruits,Berries,specific,5950
+234,234.0,Rambutan,Fruits,Tropical fruits,specific,5949
+301,301.0,Beech nut,Nuts,Nuts,specific,5949
+440,440.0,Pili nut,Nuts,Nuts,specific,5949
+455,455.0,Malabar plum,Fruits,Tropical fruits,specific,5949
+566,566.0,Epazote,Herbs and Spices,Herbs,specific,5949
+568,568.0,Cloud ear fungus,Vegetables,Mushrooms,specific,5948
+560,560.0,Jew's ear,Vegetables,Mushrooms,specific,5948
+570,570.0,Ostrich fern,Vegetables,Leaf vegetables,specific,5948
+1,1.0,Angelica,Herbs and Spices,Herbs,specific,5948
+255,255.0,Grapefruit/Pummelo hybrid,Fruits,Citrus,specific,5948
+370,370.0,Fireweed,Herbs and Spices,Herbs,specific,5948
+366,366.0,Oregon yampah,Vegetables,Root vegetables,specific,5948
+442,442.0,Pitanga,Fruits,Tropical fruits,specific,5947
+259,259.0,Italian oregano,Herbs and Spices,Herbs,specific,5946
+786,786.0,Horned melon,Gourds,Gourds,specific,5946
+163,163.0,Black raspberry,Fruits,Berries,specific,5946
+479,479.0,Sesbania flower,Vegetables,Other vegetables,specific,5945
+3,3.0,Silver linden,Herbs and Spices,Herbs,specific,5945
+96,96.0,Grass pea,Pulses,Peas,specific,5945
+10,10.0,Lemon verbena,Herbs and Spices,Herbs,specific,5945
+224,224.0,Longan,Fruits,Tropical fruits,specific,5944
+228,228.0,Fox grape,Fruits,Berries,specific,5943
+225,225.0,Macadamia nut (M. tetraphylla),Nuts,Nuts,specific,5943
+260,260.0,Oxheart cabbage,Vegetables,Cabbages,specific,5942
+325,325.0,Natal plum,Fruits,Tropical fruits,specific,5942
+849,849.0,Greenthread tea,Teas,Herbal teas,specific,5941
+176,176.0,Rowanberry,Fruits,Berries,specific,5941
+190,190.0,Sparkleberry,Fruits,Berries,specific,5941
+426,426.0,Ohelo berry,Fruits,Berries,specific,5941
+349,349.0,Squashberry,Fruits,Berries,specific,5940
+84,84.0,Black huckleberry,Fruits,Berries,specific,5939
+207,207.0,Arctic blackberry,Fruits,Berries,specific,5939
+212,212.0,Bog bilberry,Fruits,Berries,specific,5939
+263,263.0,Radish (var.),Vegetables,Root vegetables,specific,5939
+572,572.0,Sourdock,Herbs and Spices,Herbs,specific,5939
+551,551.0,Alaska wild rhubarb,Vegetables,Stalk vegetables,specific,5938
+412,412.0,Alpine sweetvetch,Vegetables,Root vegetables,specific,5938
+104,104.0,Lupine,Pulses,Other pulses,specific,5938
+248,248.0,Half-highbush blueberry,Fruits,Berries,specific,5938
+222,222.0,Evergreen huckleberry,Fruits,Berries,specific,5938
+221,221.0,Oval-leaf huckleberry,Fruits,Berries,specific,5938
+220,220.0,Cascade huckleberry,Fruits,Berries,specific,5938
+517,517.0,Tea leaf willow,Herbs and Spices,Herbs,specific,5938
+223,223.0,Red huckleberry,Fruits,Berries,specific,5938
+185,185.0,Small-leaf linden,Herbs and Spices,Herbs,specific,5937
+218,218.0,Deerberry,Fruits,Berries,specific,5937
+201,201.0,Climbing bean,Pulses,Beans,specific,5937
+240,240.0,Japanese walnut,Nuts,Nuts,specific,5936
+250,250.0,Chicory leaves,Vegetables,Leaf vegetables,specific,5936
+258,258.0,Kai-lan,Vegetables,Cabbages,specific,5935
+233,233.0,Pepper (Capsicum),Vegetables,Fruit vegetables,specific,5935
+262,262.0,Black radish,Vegetables,Root vegetables,specific,5935
+78,78.0,Wax apple,Fruits,Tropical fruits,specific,5935
+607,607.0,Sago palm,Herbs and Spices,Oilseed crops,specific,5935
+216,216.0,Chinese chives,Herbs and Spices,Herbs,specific,5935
+219,219.0,Ginseng,Herbs and Spices,Spices,specific,5935
+265,265.0,Sweet rowanberry,Fruits,Berries,specific,5935
+210,210.0,Elliott's blueberry,Fruits,Berries,specific,5934
+232,232.0,Pepper (C. chinense),Vegetables,Fruit vegetables,specific,5934
+209,209.0,Bayberry,Fruits,Berries,specific,5934
+267,267.0,Skunk currant,Fruits,Berries,specific,5934
+882,882.0,Chinese bayberry,Fruits,Berries,specific,5934
+238,238.0,Lemon thyme,Herbs and Spices,Herbs,specific,5934
+254,254.0,Chicory roots,Vegetables,Root vegetables,specific,5934
+239,239.0,Tronchuda cabbage,Vegetables,Cabbages,specific,5934
+276,276.0,Sourdough,Cereals and cereal products,Doughs,specific,5934
+251,251.0,Komatsuna,Vegetables,Cabbages,specific,5934
+879,879.0,Pepper (C. pubescens),Vegetables,Fruit vegetables,specific,5934
+266,266.0,Pineappple sage,Herbs and Spices,Herbs,specific,5934
+213,213.0,Buffalo currant,Fruits,Berries,specific,5934
+231,231.0,Pepper (C. baccatum),Vegetables,Fruit vegetables,specific,5934
+59,59.0,Arabica coffee,Coffee and coffee products,Coffee,specific,4584
+903,903.0,Fruits,Fruits,Fruits,generic,4555
+60,60.0,Robusta coffee,Coffee and coffee products,Coffee,specific,4516
+897,897.0,Herbs and Spices,Herbs and Spices,Herbs and Spices,generic,4494
+938,938.0,Blackberry,Fruits,Berries,specific,4299
+766,766.0,Bulgur,Cereals and cereal products,Cereal products,specific,4235
+825,825.0,Flour,Cereals and cereal products,Cereal products,specific,4216
+836,836.0,Wheat bread,Cereals and cereal products,Leavened breads,specific,4123
+837,837.0,Rye bread,Cereals and cereal products,Leavened breads,specific,4117
+718,718.0,Tofu,Soy,Soy products,specific,4112
+761,761.0,Soy milk,Soy,Soy products,specific,4108
+716,716.0,Soy sauce,Soy,Soy products,specific,4106
+717,717.0,Miso,Soy,Soy products,specific,4105
+1019,1019.0,White bread,Cereals and cereal products,Cereals,,4095
+733,733.0,Tortilla,Cereals and cereal products,Flat breads,specific,4092
+700,700.0,Curry powder,Herbs and Spices,Herb and spice mixtures,specific,4088
+770,770.0,Semolina,Cereals and cereal products,Cereal products,specific,4087
+831,831.0,Bagel,Cereals and cereal products,Leavened breads,specific,4045
+1023,1023.0,Taco shell,,,,4042
+839,839.0,Potato bread,Cereals and cereal products,Other breads,specific,4036
+743,743.0,Heart of palm,Vegetables,Other vegetables,specific,4035
+840,840.0,Cornbread,Cereals and cereal products,Flat breads,specific,4035
+845,845.0,Raisin bread,Cereals and cereal products,Sweet breads,specific,4033
+838,838.0,Oat bread,Cereals and cereal products,Leavened breads,specific,4033
+843,843.0,Rice bread,Cereals and cereal products,Leavened breads,specific,4033
+829,829.0,Pita bread,Cereals and cereal products,Flat breads,specific,4033
+930,930.0,Rabbiteye blueberry,Fruits,Berries,specific,4030
+834,834.0,Piki bread,Cereals and cereal products,Flat breads,specific,4025
+756,756.0,Morchella (Morel),Vegetables,Mushrooms,specific,4024
+721,721.0,Zwieback,Cereals and cereal products,Leavened breads,specific,4022
+846,846.0,Wonton wrapper,Baking goods,Wrappers,specific,4022
+748,748.0,Hibiscus tea,Teas,Herbal teas,specific,4014
+1024,1024.0,Tostada shell,,,,4000
+929,929.0,Mundu,Fruits,Tropical fruits,,3995
+926,926.0,Gentiana lutea,Vegetables,,,3981
+809,809.0,Soy cream,Soy,Soy products,specific,3979
+925,925.0,Castanospermum australe,Vegetables,,,3979
+931,931.0,Yali pear,Fruits,Pomes,specific,3977
+927,927.0,Juniperus communis,Vegetables,,,3975
+950,950.0,Sour orange,Fruits,Citrus,,3974
+928,928.0,Albizia gummifera,Vegetables,,,3974
+947,947.0,Guarana,Herbs and Spices,Herbs,,3973
+948,948.0,Mate,Herbs and Spices,Herbs,,3972
+963,963.0,Partridge berry,Fruits,Berries,,3971
+1005,1005.0,Iceberg lettuce,Vegetables,Leaf vegetables,,3970
+1007,1007.0,Pea shoots,Vegetables,Leaf vegetables,,3970
+996,996.0,Green grape,Fruits,Berries,,3970
+990,990.0,Plantain,Fruits,Tropical fruits,,3970
+991,991.0,Clementine,Fruits,Citrus,,3970
+999,999.0,Green cabbage,Vegetables,Cabbages,,3970
+1004,1004.0,Acorn squash,Gourds,Gourds,,3970
+962,962.0,Red clover,Herbs and Spices,Herbs,,3970
+1011,1011.0,Green plum,Fruits,Berries,,3970
+1015,1015.0,Monk fruit,Fruits,Berries,,3970
+1000,1000.0,Black raisin,Fruits,Berries,,3970
+964,964.0,Mikan,Fruits,Citrus,,3970
+953,953.0,White mulberry,Herbs and Spices,Herbs,,3970
+1014,1014.0,Goji,Fruits,Berries,,3970
+961,961.0,Crosne,Vegetables,Root vegetables,,3970
+987,987.0,Jalapeno pepper,Vegetables,Fruit vegetables,,3970
+1016,1016.0,Cantaloupe melon,Gourds,Gourds,,3970
+1009,1009.0,Water spinach,Vegetables,Leaf vegetables,,3970
+1002,1002.0,Green lentil,Pulses,Pulses,,3970
+1003,1003.0,Cubanelle pepper,Vegetables,Fruit vegetables,,3969
+1001,1001.0,Cannellini bean,Pulses,Beans,,3969
+989,989.0,Eddoe,Vegetables,Root vegetables,,3969
+997,997.0,Red grape,Fruits,Berries,,3969
+992,992.0,Green apple,Fruits,Pomes,,3969
+1018,1018.0,Lantern fruit,Fruits,Berries,,3969
+1017,1017.0,Hawthorn,Fruits,Berries,,3969
+1010,1010.0,Chineese plum,Fruits,Berries,,3969
+1012,1012.0,Wampee,Fruits,Berries,,3969
+1013,1013.0,Pitaya,Fruits,Tropical fruits,,3969
+1020,1020.0,Cape gooseberry,Fruits,Berries,,3969
+998,998.0,Black plum,Fruits,Berries,,3969
+1008,1008.0,Yau choy,Vegetables,Leaf vegetables,,3969
+38,38.0,Tea,Teas,Teas,specific,3475
+904,904.0,Green vegetables,Vegetables,Green vegetables,generic,2880
+270,270.0,Breakfast cereal,Cereals and cereal products,Cereal products,specific,2817
+888,888.0,Cereals and cereal products,Cereals and cereal products,Cereals and cereal products,generic,2739
+898,898.0,Pulses,Pulses,Pulses,generic,2646
+905,905.0,Root vegetables,Vegetables,Root vegetables,generic,2424
+889,889.0,Citrus,Fruits,Citrus,generic,2415
+632,632.0,Milk (Cow),Milk and milk products,Unfermented milks,specific,2373
+901,901.0,Nuts,Nuts,Nuts,generic,2271
+885,885.0,Onion-family vegetables,Vegetables,Onion-family vegetables,generic,2253
+887,887.0,Brassicas,Vegetables,Brassicas,generic,2215
+182,182.0,Cocoa bean,Cocoa and cocoa products,Cocoa,specific,2202
+886,886.0,Pomes,Fruits,Pomes,generic,2182
+160,160.0,"Rubus (Blackberry, Raspberry)",Fruits,Berries,specific,2145
+447,447.0,Opium poppy,Herbs and Spices,Spices,specific,2078
+275,275.0,Biscuit,Cereals and cereal products,Cereal products,specific,2054
+127,127.0,Poppy,Herbs and Spices,Oilseed crops,specific,2054
+269,269.0,Other bread,Cereals and cereal products,Other breads,specific,2051
+616,616.0,Kombu,Aquatic foods,Seaweed,specific,2040
+317,317.0,Burbot,Aquatic foods,Fishes,specific,2040
+285,285.0,Agar,Aquatic foods,Seaweed,specific,2038
+272,272.0,Other soy product,Soy,Soy products,specific,2027
+615,615.0,Red algae,Aquatic foods,Seaweed,specific,2017
+796,796.0,Mixed nuts,Nuts,Nuts,specific,2012
+800,800.0,Shea tree,Herbs and Spices,Oilseed crops,specific,2010
+387,387.0,Irish moss,Aquatic foods,Seaweed,specific,2007
+490,490.0,Spirulina,Aquatic foods,Seaweed,specific,2002
+564,564.0,Wakame,Aquatic foods,Seaweed,specific,2001
+802,802.0,Ucuhuba,Herbs and Spices,Oilseed crops,specific,2001
+293,293.0,Atlantic herring,Aquatic foods,Fishes,specific,1999
+799,799.0,Cupuaçu,Herbs and Spices,Oilseed crops,specific,1999
+280,280.0,Abalone,Aquatic foods,Mollusks,specific,1999
+396,396.0,Kelp,Aquatic foods,Seaweed,specific,1998
+563,563.0,Purple laver,Aquatic foods,Seaweed,specific,1998
+801,801.0,Oil-seed Camellia,Herbs and Spices,Oilseed crops,specific,1996
+273,273.0,Other cereal product,Cereals and cereal products,Cereal products,specific,1996
+625,625.0,Conch,Aquatic foods,Mollusks,specific,1996
+319,319.0,American butterfish,Aquatic foods,Fishes,specific,1988
+244,244.0,Rocket salad,Vegetables,Leaf vegetables,specific,1978
+354,354.0,Devilfish,Aquatic foods,Fishes,specific,1977
+554,,,,,,1976
+894,894.0,Fats and oils,Fats and oils,Fats and oils,generic,861
+923,923.0,"Cow milk, pasteurized, vitamin A + D added, 2% fat",Milk and milk products,Unfermented milks,specific,792
+922,922.0,"Cow milk, pasteurized, vitamin A + D added, 1% fat",Milk and milk products,Unfermented milks,specific,791
+924,924.0,"Cow milk, pasteurized, vitamin D added, 3.25% fat",Milk and milk products,Unfermented milks,specific,787
+921,921.0,"Cow milk, pasteurized, vitamin A + D added, 0% fat",Milk and milk products,Unfermented milks,specific,784
+884,884.0,Alcoholic beverages,Beverages,Alcoholic beverages,generic,745
+883,883.0,Mushrooms,Vegetables,Mushrooms,generic,574
+268,268.0,Beer,Beverages,Fermented beverages,specific,435
+891,891.0,Coffee and coffee products,Coffee and coffee products,Coffee and coffee products,generic,363
+626,626.0,Grape wine,Beverages,Fermented beverages,specific,353
+933,933.0,Evergreen blackberry,Fruits,Berries,specific,292
+899,,,,,,287
+893,893.0,Milk and milk products,Milk and milk products,Milk and milk products,generic,206
+58,58.0,Coffee,Coffee and coffee products,Coffee,generic,200
+788,788.0,Fruit juice,Beverages,Other beverages,specific,183
+746,746.0,Tortilla chip,Snack foods,Snack foods,specific,162
+709,709.0,Chocolate,Cocoa and cocoa products,Cocoa products,specific,152
+707,707.0,Cocoa powder,Cocoa and cocoa products,Cocoa products,specific,151
+631,631.0,Cheese,Milk and milk products,Fermented milk products,specific,150
+943,943.0,Red wine,Beverages,Fermented beverages,,148
+633,633.0,Eggs,Eggs,Eggs,generic,147
+710,710.0,Hot chocolate,Cocoa and cocoa products,Cocoa products,specific,143
+902,902.0,Beverages,Beverages,Beverages,generic,142
+671,671.0,Sausage,Dishes,Ground meat,specific,138
+634,634.0,Yogurt,Milk and milk products,Fermented milk products,specific,138
+701,701.0,Other candy,Confectioneries,Candies,specific,135
+657,657.0,Other snack food,Snack foods,Snack foods,specific,135
+949,949.0,White wine,Beverages,Fermented beverages,,134
+660,660.0,Pastry,Confectioneries,Desserts,specific,132
+664,664.0,Salad dressing,Baking goods,Dressings,specific,132
+873,873.0,Margarine-like spread,Fats and oils,Vegetable fats,specific,132
+665,665.0,Sauce,Baking goods,Sauces,specific,132
+645,645.0,Vinegar,Baking goods,Seasonings,specific,132
+692,692.0,Soup,Dishes,Other dishes,specific,132
+649,649.0,Sherry,Beverages,Fortified wines,specific,132
+865,865.0,Other dish,Dishes,Other dishes,specific,131
+812,812.0,Cracker,Snack foods,Snack foods,specific,130
+781,781.0,Ketchup,Baking goods,Condiments,specific,130
+690,690.0,Baby food,Baby foods,Baby foods,specific,129
+655,655.0,Pizza,Dishes,Other dishes,specific,129
+686,686.0,Other fish product,Aquatic foods,Fish products,specific,129
+673,673.0,Mustard,Baking goods,Condiments,specific,128
+872,872.0,Margarine,Fats and oils,Vegetable fats,specific,127
+832,832.0,Other bread product,Cereals and cereal products,Bread products,specific,126
+669,669.0,Cream,Milk and milk products,Other milk products,specific,126
+900,900.0,Mollusks,Aquatic foods,Mollusks,generic,126
+546,546.0,Shrimp,Aquatic foods,Crustaceans,specific,126
+621,621.0,Thunnus,Aquatic foods,Fishes,specific,126
+667,667.0,Butter,Milk and milk products,Other milk products,specific,126
+630,630.0,Liquor,Beverages,Distilled beverages,specific,126
+694,694.0,Unclassified food or beverage,Unclassified,Unclassified,specific,125
+548,548.0,Flatfish,Aquatic foods,Fishes,specific,125
+454,454.0,Rainbow trout,Aquatic foods,Fishes,specific,125
+514,514.0,Whitefish,Aquatic foods,Fishes,specific,124
+732,732.0,Taco,Dishes,Tex-Mex cuisine,specific,122
+640,640.0,Whisky,Beverages,Distilled beverages,specific,122
+379,379.0,Haddock,Aquatic foods,Fishes,specific,122
+681,681.0,Fruit preserve,Fruits,Fruit products,specific,121
+714,714.0,Buttermilk,Milk and milk products,Fermented milks,specific,121
+641,641.0,Ice cream,Confectioneries,Frozen desserts,specific,121
+703,703.0,Lard,Fats and oils,Animal fats,specific,121
+896,896.0,Fishes,Aquatic foods,Fishes,generic,120
+682,682.0,Leavening agent,Baking goods,Baking goods,specific,119
+711,711.0,Dried milk,Milk and milk products,Other milk products,specific,119
+674,674.0,Pate,Dishes,Ground meat,specific,119
+695,695.0,Syrup,Baking goods,Baking goods,specific,119
+659,659.0,Crisp bread,Cereals and cereal products,Flat breads,specific,119
+795,795.0,Cold cut,Dishes,Ground meat,specific,119
+666,666.0,Salt,Baking goods,Seasonings,specific,119
+670,670.0,Sugar,Baking goods,Sugars,specific,119
+696,696.0,Tallow,Fats and oils,Animal fats,specific,118
+750,750.0,Gelatin dessert,Confectioneries,Desserts,specific,118
+790,790.0,Other fruit product,Fruits,Fruit products,specific,118
+704,704.0,Other animal fat,Fats and oils,Animal fats,specific,118
+706,706.0,Cocoa butter,Cocoa and cocoa products,Cocoa products,specific,118
+853,853.0,Soft drink,Beverages,Other beverages,specific,118
+439,439.0,Northern pike,Aquatic foods,Fishes,specific,117
+685,685.0,Water,Beverages,Waters,specific,117
+375,375.0,Greenland halibut/turbot,Aquatic foods,Fishes,specific,117
+547,547.0,Crayfish,Aquatic foods,Crustaceans,specific,117
+344,344.0,Common octopus,Aquatic foods,Mollusks,specific,117
+851,851.0,Vegetable juice,Beverages,Other beverages,specific,117
+515,515.0,Whiting,Aquatic foods,Fishes,specific,117
+676,676.0,Sugar substitute,Baking goods,Substitutes,specific,117
+504,504.0,"Salmonidae (Salmon, Trout)",Aquatic foods,Fishes,specific,117
+538,538.0,Perciformes,Aquatic foods,Fishes,specific,116
+712,712.0,Milk (Other mammals),Milk and milk products,Unfermented milks,specific,116
+277,277.0,Spirit,Beverages,Distilled beverages,specific,116
+687,687.0,Milk (Human),Milk and milk products,Unfermented milks,specific,116
+679,679.0,Whey,Milk and milk products,Other milk products,specific,116
+754,754.0,Other frozen dessert,Confectioneries,Frozen desserts,specific,115
+619,619.0,Catfish,Aquatic foods,Fishes,specific,114
+644,644.0,Liquorice,Confectioneries,Candies,specific,114
+591,591.0,Anguilliformes,Aquatic foods,Fishes,specific,112
+617,617.0,Snail,Aquatic foods,Mollusks,specific,112
+890,890.0,Cocoa and cocoa products,Cocoa and cocoa products,Cocoa and cocoa products,generic,112
+601,601.0,Marine mussel,Aquatic foods,Mollusks,specific,112
+592,592.0,True frog,Aquatic foods,Amphibians,specific,112
+584,584.0,Sturgeon,Aquatic foods,Fishes,specific,112
+526,526.0,Gadus (Common cod),Aquatic foods,Fishes,specific,112
+598,598.0,Clawed lobster,Aquatic foods,Crustaceans,specific,111
+698,698.0,Chocolate spread,Confectioneries,Spreads,specific,111
+527,527.0,Atlantic halibut,Aquatic foods,Fishes,specific,111
+597,597.0,Lemon sole,Aquatic foods,Fishes,specific,111
+531,531.0,"Clupeinae (Herring, Sardine, Sprat)",Aquatic foods,Fishes,specific,111
+656,656.0,Ymer,Milk and milk products,Fermented milk products,specific,111
+402,402.0,Common ling,Aquatic foods,Fishes,specific,111
+580,580.0,Anchovy,Aquatic foods,Fishes,specific,111
+678,,,,,,111
+587,587.0,Crab,Aquatic foods,Crustaceans,specific,111
+297,297.0,Atlantic wolffish,Aquatic foods,Fishes,specific,111
+697,697.0,Remoulade,Baking goods,Condiments,specific,111
+369,369.0,Turbot,Aquatic foods,Fishes,specific,111
+683,683.0,Marshmallow,Confectioneries,Candies,specific,111
+600,600.0,"Scombridae (Bonito, Mackerel, Tuna)",Aquatic foods,Fishes,specific,111
+610,610.0,"Pleuronectidae (Dab, Halibut, Plaice)",Aquatic foods,Fishes,specific,111
+713,713.0,Kefir,Milk and milk products,Fermented milks,specific,111
+593,593.0,Garfish,Aquatic foods,Fishes,specific,110
+684,684.0,Gelatin,Baking goods,Baking goods,specific,110
+677,677.0,Meat bouillon,Baking goods,Baking goods,specific,110
+603,603.0,Norway lobster,Aquatic foods,Crustaceans,specific,110
+715,715.0,Other fermented milk,Milk and milk products,Fermented milks,specific,110
+663,663.0,Marzipan,Confectioneries,Other confectioneries,specific,110
+680,680.0,Casein,Milk and milk products,Other milk products,specific,110
+279,279.0,Other alcoholic beverage,Beverages,Alcoholic beverages,specific,109
+653,653.0,Toffee,Confectioneries,Other confectioneries,specific,108
+662,662.0,Chewing gum,Confectioneries,Candies,specific,107
+582,582.0,Carp bream,Aquatic foods,Fishes,specific,106
+612,612.0,Pacific ocean perch,Aquatic foods,Fishes,specific,106
+648,648.0,Vermouth,Beverages,Fortified wines,specific,106
+594,594.0,Gadiformes,Aquatic foods,Fishes,specific,106
+602,602.0,Norway haddock,Aquatic foods,Fishes,specific,106
+524,524.0,Pollock,Aquatic foods,Fishes,specific,106
+604,604.0,Norway pout,Aquatic foods,Fishes,specific,106
+609,609.0,Pikeperch,Aquatic foods,Fishes,specific,105
+581,581.0,Blue whiting,Aquatic foods,Fishes,specific,105
+596,596.0,Lake trout,Aquatic foods,Fishes,specific,105
+1022,1022.0,Fish oil,,,,105
+623,623.0,"Cetacea (Dolphin, Porpoise, Whale)",Aquatic foods,Cetaceans,specific,105
+585,585.0,Charr,Aquatic foods,Fishes,specific,105
+702,702.0,Meringue,Confectioneries,Other confectioneries,specific,105
+699,699.0,Fruit gum,Confectioneries,Candies,specific,105
+588,588.0,Common dab,Aquatic foods,Fishes,specific,105
+672,672.0,Meatball,Dishes,Ground meat,specific,105
+589,589.0,Spiny dogfish,Aquatic foods,Fishes,specific,105
+599,599.0,Lumpsucker,Aquatic foods,Fishes,specific,105
+643,643.0,Honey,Confectioneries,Other confectioneries,specific,104
+646,646.0,Rum,Beverages,Distilled beverages,specific,100
+614,614.0,True seal,Aquatic foods,Pinnipeds,specific,99
+661,661.0,Dragée,Confectioneries,Candies,specific,99
+691,691.0,Dumpling,Dishes,Other dishes,specific,96
+725,725.0,Snack bar,Snack foods,Snack foods,specific,95
+642,642.0,Gin,Beverages,Distilled beverages,specific,93
+747,747.0,Corn chip,Snack foods,Snack foods,specific,90
+744,744.0,Popcorn,Snack foods,Snack foods,specific,90
+759,759.0,Pudding,Confectioneries,Desserts,specific,89
+850,850.0,Fruit-flavor drink,Beverages,Other beverages,specific,89
+654,654.0,Cake,Confectioneries,Desserts,specific,89
+639,639.0,Vodka,Beverages,Distilled beverages,specific,88
+329,329.0,Channel catfish,Aquatic foods,Fishes,specific,88
+749,749.0,Stew,Dishes,Other dishes,specific,88
+735,735.0,Processed cheese,Milk and milk products,Fermented milk products,specific,87
+730,730.0,Baked beans,Dishes,Other dishes,specific,87
+729,729.0,Hamburger,Dishes,Sandwiches,specific,87
+740,740.0,Sweet custard,Confectioneries,Milk desserts,specific,87
+463,463.0,Sockeye salmon,Aquatic foods,Fishes,specific,87
+618,618.0,True sole,Aquatic foods,Fishes,specific,87
+306,306.0,Blue crab,Aquatic foods,Crustaceans,specific,87
+780,780.0,Other sandwich,Dishes,Sandwiches,specific,87
+606,606.0,True oyster,Aquatic foods,Mollusks,specific,86
+380,380.0,Hippoglossus (Common halibut),Aquatic foods,Fishes,specific,86
+779,779.0,Nutritional drink,Beverages,Nutritional beverages,specific,86
+757,757.0,Pancake,Dishes,Other dishes,specific,86
+818,818.0,Other pasta dish,Dishes,Pasta dishes,specific,85
+784,784.0,Macaroni and cheese,Dishes,Pasta dishes,specific,85
+472,472.0,Scallop,Aquatic foods,Mollusks,specific,85
+742,742.0,Egg roll,Dishes,Asian cuisine,specific,85
+745,745.0,Potato chip,Snack foods,Snack foods,specific,85
+342,342.0,Pacific cod,Aquatic foods,Fishes,specific,84
+462,462.0,Coho salmon,Aquatic foods,Fishes,specific,84
+736,736.0,Salad,Dishes,Other dishes,specific,84
+731,731.0,Chili,Dishes,Tex-Mex cuisine,specific,84
+544,544.0,"Bivalvia (Clam, Mussel, Oyster)",Aquatic foods,Mollusks,specific,84
+295,295.0,Painted comber,Aquatic foods,Fishes,specific,83
+728,728.0,Burrito,Dishes,Tex-Mex cuisine,specific,83
+842,842.0,Multigrain bread,Cereals and cereal products,Leavened breads,specific,83
+404,404.0,American lobster,Aquatic foods,Crustaceans,specific,83
+434,434.0,Pacific rockfish,Aquatic foods,Fishes,specific,83
+361,361.0,Eastern oyster,Aquatic foods,Mollusks,specific,83
+461,461.0,Chum salmon,Aquatic foods,Fishes,specific,83
+464,464.0,Chinook salmon,Aquatic foods,Fishes,specific,83
+782,782.0,Breakfast sandwich,Dishes,Sandwiches,specific,83
+793,793.0,Vegetarian food,Dishes,Other dishes,specific,83
+841,841.0,Corn grits,Cereals and cereal products,Cereal products,specific,82
+876,876.0,Potato puffs,Dishes,Potato dishes,specific,82
+762,762.0,Meatloaf,Dishes,Ground meat,specific,82
+689,689.0,Other beverage,Beverages,Other beverages,specific,82
+816,816.0,Ravioli,Dishes,Pasta dishes,specific,82
+805,805.0,Pie crust,Baking goods,Wrappers,specific,82
+508,508.0,Alaska pollock,Aquatic foods,Fishes,specific,82
+647,647.0,Port wine,Beverages,Fortified wines,specific,81
+835,835.0,French toast,Cereals and cereal products,Leavened breads,specific,81
+855,855.0,Milkshake,Confectioneries,Frozen desserts,specific,81
+804,804.0,Cooking oil,Baking goods,Baking goods,specific,81
+460,460.0,Pink salmon,Aquatic foods,Fishes,specific,81
+760,760.0,Waffle,Dishes,Other dishes,specific,80
+302,302.0,Beluga whale,Aquatic foods,Cetaceans,specific,80
+739,739.0,Topping,Baking goods,Baking goods,specific,80
+866,866.0,Pot pie,Dishes,Other dishes,specific,80
+820,820.0,Tamale,Dishes,Latin American cuisine,specific,80
+724,724.0,Icing,Confectioneries,Other confectioneries,specific,80
+807,807.0,Pie,Confectioneries,Desserts,specific,80
+482,482.0,Sheefish,Aquatic foods,Fishes,specific,79
+476,476.0,Bearded seal,Aquatic foods,Pinnipeds,specific,79
+787,787.0,Hushpuppy,Dishes,American cuisine,specific,78
+808,808.0,Shortening,Fats and oils,Vegetable fats,specific,78
+867,867.0,Stuffing,Baking goods,Baking goods,specific,77
+723,723.0,Cichlidae (Tilapia),Aquatic foods,Fishes,specific,76
+498,498.0,Swordfish,Aquatic foods,Fishes,specific,76
+522,522.0,Yellowfin tuna,Aquatic foods,Fishes,specific,76
+471,471.0,Pacific sardine,Aquatic foods,Fishes,specific,76
+860,860.0,Arepa,Dishes,Latin American cuisine,specific,76
+874,874.0,Hummus,Dishes,Levantine cuisine,specific,75
+859,859.0,Empanada,Dishes,Latin American cuisine,specific,74
+530,530.0,Smelt,Aquatic foods,Fishes,specific,74
+776,776.0,Spread,Baking goods,Baking goods,specific,74
+755,755.0,Lasagna,Dishes,Pasta dishes,specific,74
+307,307.0,Blue mussel,Aquatic foods,Mollusks,specific,73
+868,868.0,Edible shell,Baking goods,Wrappers,specific,73
+858,858.0,Pupusa,Dishes,Latin American cuisine,specific,73
+458,458.0,Orange roughy,Aquatic foods,Fishes,specific,72
+525,525.0,Albacore tuna,Aquatic foods,Fishes,specific,72
+737,737.0,Cream substitute,Baking goods,Substitutes,specific,71
+734,734.0,Nachos,Dishes,Tex-Mex cuisine,specific,71
+343,343.0,Atlantic cod,Aquatic foods,Fishes,specific,70
+810,810.0,Ice cream cone,Baking goods,Wrappers,specific,70
+367,367.0,European anchovy,Aquatic foods,Fishes,specific,70
+767,767.0,Coffee substitute,Baking goods,Substitutes,specific,68
+806,806.0,Pie filling,Baking goods,Baking goods,specific,68
+815,815.0,Natto,Soy,Soy products,specific,67
+465,465.0,Atlantic salmon,Aquatic foods,Fishes,specific,67
+778,778.0,Egg substitute,Baking goods,Substitutes,specific,67
+765,765.0,Couscous,Dishes,Berber cuisine,specific,67
+327,327.0,Common carp,Aquatic foods,Fishes,specific,67
+693,693.0,Other vegetable product,Vegetables,Vegetable products,specific,67
+511,511.0,Whelk,Aquatic foods,Mollusks,specific,66
+418,418.0,Striped mullet,Aquatic foods,Fishes,specific,66
+985,985.0,Sour cream,Milk and milk products,Other milk products,,66
+308,308.0,Northern bluefin tuna,Aquatic foods,Fishes,specific,66
+388,388.0,Pacific jack mackerel,Aquatic foods,Fishes,specific,66
+470,470.0,Spanish mackerel,Aquatic foods,Fishes,specific,66
+371,371.0,Florida pompano,Aquatic foods,Fishes,specific,66
+339,339.0,Cisco,Aquatic foods,Fishes,specific,66
+362,362.0,Freshwater eel,Aquatic foods,Fishes,specific,66
+487,487.0,Snapper,Aquatic foods,Fishes,specific,66
+481,481.0,Shark,Aquatic foods,Fishes,specific,66
+480,480.0,American shad,Aquatic foods,Fishes,specific,66
+473,473.0,Scup,Aquatic foods,Fishes,specific,66
+350,350.0,Atlantic croaker,Aquatic foods,Fishes,specific,66
+453,453.0,Rainbow smelt,Aquatic foods,Fishes,specific,66
+494,494.0,Greater sturgeon,Aquatic foods,Fishes,specific,66
+722,722.0,Roe,Aquatic foods,Roe,generic,66
+296,296.0,Atlantic pollock,Aquatic foods,Fishes,specific,66
+824,824.0,Evaporated milk,Milk and milk products,Other milk products,specific,66
+878,878.0,Milk substitute,Baking goods,Substitutes,specific,66
+537,537.0,Percoidei (Bass and others),Aquatic foods,Fishes,specific,66
+854,854.0,Frozen yogurt,Confectioneries,Frozen desserts,specific,66
+545,545.0,Squid,Aquatic foods,Mollusks,specific,66
+852,852.0,Horchata,Beverages,Other beverages,specific,65
+738,738.0,Dulce de leche,Confectioneries,Spreads,specific,65
+771,771.0,Tapioca pearl,Baking goods,Baking goods,specific,65
+871,871.0,Condensed milk,Milk and milk products,Other milk products,specific,65
+785,785.0,Butterfat,Milk and milk products,Other milk products,specific,65
+294,294.0,Atlantic mackerel,Aquatic foods,Fishes,specific,65
+844,844.0,Pan dulce,Cereals and cereal products,Leavened breads,specific,65
+789,789.0,Relish,Baking goods,Condiments,specific,65
+819,819.0,Succotash,Dishes,American cuisine,specific,64
+803,803.0,Phyllo dough,Baking goods,Baking goods,specific,64
+433,433.0,Pacific oyster,Aquatic foods,Mollusks,specific,63
+792,792.0,Soy yogurt,Soy,Soy products,specific,63
+651,651.0,Nougat,Confectioneries,Other confectioneries,specific,63
+773,773.0,Quesadilla,Dishes,Mexican cuisine,specific,59
+751,751.0,Junket,Confectioneries,Milk desserts,specific,58
+431,431.0,Spotted seal,Aquatic foods,Pinnipeds,specific,57
+870,870.0,Candy bar,Confectioneries,Candies,specific,56
+877,877.0,Potato gratin,Dishes,Potato dishes,specific,56
+299,299.0,Striped bass,Aquatic foods,Fishes,specific,54
+309,309.0,Bluefish,Aquatic foods,Fishes,specific,54
+459,459.0,Sablefish,Aquatic foods,Fishes,specific,54
+403,403.0,Lingcod,Aquatic foods,Fishes,specific,54
+892,892.0,Crustaceans,Aquatic foods,Crustaceans,generic,54
+377,377.0,Grouper,Aquatic foods,Fishes,specific,54
+478,478.0,Sea trout,Aquatic foods,Fishes,specific,54
+532,532.0,Spiny lobster,Aquatic foods,Crustaceans,specific,54
+501,501.0,Tilefish,Aquatic foods,Fishes,specific,54
+571,571.0,Spot croaker,Aquatic foods,Fishes,specific,54
+356,356.0,Dolphin fish,Aquatic foods,Fishes,specific,54
+507,507.0,Walleye,Aquatic foods,Fishes,specific,53
+869,869.0,Fudge,Confectioneries,Candies,specific,52
+817,817.0,Scrapple,Dishes,American cuisine,specific,51
+286,286.0,Red king crab,Aquatic foods,Crustaceans,specific,50
+830,830.0,Focaccia,Cereals and cereal products,Flat breads,specific,50
+811,811.0,Molasses,Baking goods,Baking goods,specific,50
+791,791.0,Fruit salad,Fruits,Fruit products,specific,50
+359,359.0,Dungeness crab,Aquatic foods,Crustaceans,specific,49
+848,848.0,Trail mix,Snack foods,Snack foods,specific,49
+352,352.0,Cuttlefish,Aquatic foods,Mollusks,specific,48
+432,432.0,Pacific herring,Aquatic foods,Fishes,specific,48
+777,777.0,Enchilada,Dishes,Mexican cuisine,specific,48
+856,856.0,Chocolate mousse,Confectioneries,Desserts,specific,48
+497,497.0,Pumpkinseed sunfish,Aquatic foods,Fishes,specific,48
+357,357.0,Freshwater drum,Aquatic foods,Fishes,specific,48
+484,484.0,Sheepshead,Aquatic foods,Fishes,specific,48
+753,753.0,Frybread,Dishes,Other dishes,specific,48
+486,486.0,Skipjack tuna,Aquatic foods,Fishes,specific,48
+397,397.0,King mackerel,Aquatic foods,Fishes,specific,48
+495,495.0,White sucker,Aquatic foods,Fishes,specific,48
+533,533.0,Snow crab,Aquatic foods,Crustaceans,specific,47
+424,424.0,Ocean pout,Aquatic foods,Fishes,specific,47
+758,758.0,Pectin,Baking goods,Baking goods,specific,47
+727,727.0,Energy drink,Beverages,Nutritional beverages,specific,47
+775,775.0,Hot dog,Dishes,Sandwiches,specific,47
+862,862.0,Gefilte fish,Dishes,Jewish cuisine,specific,47
+769,769.0,Chimichanga,Dishes,Mexican cuisine,specific,47
+772,772.0,Tostada,Dishes,Mexican cuisine,specific,47
+752,752.0,Falafel,Dishes,Other dishes,specific,46
+768,768.0,Coffee mocha,Coffee and coffee products,Coffee products,specific,46
+726,726.0,Green turtle,Aquatic foods,Other aquatic foods,specific,45
+857,857.0,Dripping,Fats and oils,Animal fats,specific,45
+763,763.0,Sake,Beverages,Fermented beverages,specific,45
+579,579.0,Jellyfish,Aquatic foods,Other aquatic foods,specific,45
+668,668.0,Butter substitute,Baking goods,Substitutes,specific,44
+764,764.0,Cocktail,Beverages,Alcoholic beverages,specific,44
+783,783.0,Adobo,Baking goods,Seasonings,specific,44
+523,523.0,Yellowtail amberjack,Aquatic foods,Fishes,specific,44
+822,822.0,Rice cake,Dishes,Asian cuisine,specific,44
+414,414.0,Monkfish,Aquatic foods,Fishes,specific,43
+351,351.0,Cusk,Aquatic foods,Fishes,specific,43
+413,413.0,Milkfish,Aquatic foods,Fishes,specific,43
+774,774.0,Baked potato,Dishes,Potato dishes,specific,42
+475,475.0,Steller sea lion,Aquatic foods,Pinnipeds,specific,38
+650,650.0,Madeira wine,Beverages,Fortified wines,specific,36
+629,629.0,Apple cider,Beverages,Fermented beverages,specific,30
+574,574.0,Atlantic menhaden,Aquatic foods,Fishes,specific,29
+941,941.0,Olive oil,Herbs and Spices,Oilseed crops,,26
+826,826.0,Akutaq,Confectioneries,Desserts,specific,24
+864,864.0,Fish burger,Dishes,Sandwiches,specific,22
+425,425.0,North Pacific giant octopus,Aquatic foods,Mollusks,specific,16
+861,861.0,Ascidians,Aquatic foods,Other aquatic foods,specific,14
+477,477.0,Ringed seal,Aquatic foods,Pinnipeds,specific,13
+952,952.0,Rosé wine,Beverages,Fermented beverages,,13
+936,936.0,Tropical highland blackberry,Fruits,Berries,specific,12
+550,550.0,Walrus,Aquatic foods,Pinnipeds,specific,12
+311,311.0,Bowhead whale,Aquatic foods,Cetaceans,specific,12
+305,305.0,Alaska blackfish,Aquatic foods,Fishes,specific,10
+513,513.0,Broad whitefish,Aquatic foods,Fishes,specific,10
+705,705.0,Other cocoa product,Cocoa and cocoa products,Cocoa products,specific,9
+474,474.0,Sea cucumber,Aquatic foods,Other aquatic foods,specific,9
+400,400.0,Leather chiton,Aquatic foods,Mollusks,specific,9
+627,627.0,Berry wine,Beverages,Fermented beverages,specific,8
+340,340.0,Nuttall cockle,Aquatic foods,Mollusks,specific,8
+428,428.0,Tunicate,Aquatic foods,Other aquatic foods,specific,8
+529,529.0,Pacific salmon,Aquatic foods,Fishes,specific,7
+935,935.0,Thornless blackberry,Fruits,Berries,specific,6
+937,937.0,Andean blackberry,Fruits,Berries,specific,6
+942,942.0,Macroalgae,Aquatic foods,Seaweed,,5
+539,,,,,,5
+960,960.0,White grape juice,Beverages,Beverages,,5
+959,959.0,Red grape juice,Beverages,Beverages,,5
+956,956.0,Red champagne,Beverages,Alcoholic beverages,,5
+955,955.0,Dessert wine,Beverages,Fermented beverages,,5
+16420,,,,,,4
+945,945.0,Rapeseed oil,Herbs and Spices,Oilseed crops,,4
+946,946.0,Soybean oil,Herbs and Spices,Oilseed crops,,4
+971,971.0,Salted butter,Milk and milk products,Other milk products,,4
+958,958.0,White champagne,Beverages,Alcoholic beverages,,3
+986,986.0,Whole wheat bread,Cereals and cereal products,Cereals,,3
+708,708.0,Cocoa liquor,Cocoa and cocoa products,Cocoa products,specific,3
+954,954.0,Canola oil,Herbs and Spices,Oilseed crops,,2
+944,944.0,linseed oil,Herbs and Spices,Oilseed crops,,2
+951,951.0,Egg yolk,Eggs,Eggs,,2
+979,979.0,Sesame oil,Herbs and Spices,Oilseed crops,,1
+970,970.0,Coconut milk,Milk and milk products,Other milk products,,1
+988,988.0,Greek feta cheese,Milk and milk products,Fermented milk products,,1
+984,984.0,Clam,Aquatic foods,Bivalvia,,1
+983,983.0,Blue cheese,Milk and milk products,Fermented milk products,,1
+965,965.0,Mozzarella cheese,Milk and milk products,Fermented milk products,,1
+967,967.0,Cheddar Cheese,Milk and milk products,Fermented milk products,,1
+968,968.0,Parmesan cheese,Milk and milk products,Fermented milk products,,1
+969,969.0,Almond milk,Milk and milk products,Other milk products,,1
+982,982.0,Cottage cheese,Milk and milk products,Fermented milk products,,1
+1006,1006.0,Japanese sea bass,Aquatic foods,Fishes,,1
+972,972.0,Sunflower oil,Herbs and Spices,Oilseed crops,,1
+528,528.0,Pacific halibut,Aquatic foods,Fishes,specific,1
+973,973.0,Coconut oil,Herbs and Spices,Oilseed crops,,1
+974,974.0,Peanut oil,Herbs and Spices,Oilseed crops,,1
+981,981.0,Swiss cheese,Milk and milk products,Fermented milk products,,1
+976,976.0,Corn oil,Herbs and Spices,Oilseed crops,,1
+977,977.0,Avocado oil,Herbs and Spices,Oilseed crops,,1
+978,978.0,Grapeseed oil,Herbs and Spices,Oilseed crops,,1
+975,975.0,Cottonseed oil,Herbs and Spices,Oilseed crops,,1

@@ -1,0 +1,884 @@
+id,name,flavor_group,canonical_name
+1,celery,vegetable,celere
+2,corn,vegetable,corn
+3,cucumber,vegetable,cucumber
+4,horseradish,vegetable,horseradish
+5,vegetable,vegetable,vegetable
+6,potato,vegetable,potato
+7,tomato,vegetable,tomato
+8,caraway,herbaceous,carawae
+9,clove,herbaceous,clove
+10,fennel,herbaceous,fennel
+11,herbaceous,herbaceous,herb
+12,sage,herbaceous,sage
+13,butter,fatty,butter
+14,cheese,fatty,cheese
+15,creamy,fatty,cream
+16,hop_oil,fatty,hop oil
+17,oily,fatty,oile
+18,fatty,fatty,fat
+19,sour,fatty,sour
+20,coumarin,spicy,coumarin
+21,spicy,spicy,spice
+22,blossom,floral,blossom
+23,carnation,floral,carnation
+24,gardenia,floral,gardenia
+25,geranium,floral,geranium
+26,hawthorne,floral,hawthorne
+27,hyacinth,floral,hyacinth
+28,iris,floral,iri
+29,jasmine,floral,jasmine
+30,lavender,floral,lavender
+31,lily,floral,lile
+32,marigold,floral,marigold
+33,floral,floral,floral
+34,rose,floral,rose
+35,violet,floral,violet
+36,anise,balsamic,anise
+37,balsam,balsamic,balsam
+38,butterscotch,balsamic,butter
+39,caramel,balsamic,caramel
+40,chocolate,balsamic,chocolate
+41,cinnamon,balsamic,cinnamon
+42,honey,balsamic,honee
+43,others,balsamic,other
+44,sweet,balsamic,sweet
+45,vanilla,balsamic,vanilla
+46,lemon,citrus,lemon
+47,lime,citrus,lime
+48,melon,citrus,melon
+49,orange,citrus,orange
+50,citrus,citrus,citru
+51,cedar,woody,cedar
+52,maple,woody,maple
+53,mesquite,woody,mesquite
+54,woody,woody,woode
+55,bacon,meaty,bacon
+56,beef,meaty,beef
+57,meaty,meaty,meat
+58,leafy,green,leafe
+59,green,green,green
+60,wintergreen,green,wintergreen
+61,beer,wine_like,beer
+62,brandy,wine_like,brande
+63,wine_like,wine_like,wine like
+64,rum,wine_like,rum
+65,whiskey,wine_like,whiskee
+66,mushroom,earthy,mushroom
+67,musty,earthy,muste
+68,earthy,earthy,earth
+69,apple,fruity,apple
+70,apricot,fruity,apricot
+71,banana,fruity,banana
+72,berry,fruity,berre
+73,cantaloupe,fruity,cantaloupe
+74,cherry,fruity,cherre
+75,coconut,fruity,coconut
+76,cranberry,fruity,cranberre
+77,grape,fruity,grape
+78,grapefruit,fruity,grapefruit
+79,jam,fruity,jam
+80,mango,fruity,mango
+81,fruity,fruity,fruit
+82,papaya,fruity,papaya
+83,peach,fruity,peach
+84,pear,fruity,pear
+85,pineapple,fruity,pineapple
+86,plum,fruity,plum
+87,quince,fruity,quince
+88,raspberry,fruity,raspberre
+89,strawberry,fruity,strawberre
+90,tart,fruity,tart
+91,tropica,fruity,tropica
+92,watermelon,fruity,watermelon
+93,alcohol,chemical,alcohol
+94,plastic,chemical,plastic
+95,sulfurous,chemical,sulfur
+96,almond,nutty,almond
+97,hazelnut,nutty,hazelnut
+98,nutty,nutty,nut
+99,peanut,nutty,peanut
+100,walnut,nutty,walnut
+101,camphoraceous,camphoraceous,camphoraceou
+102,tobacco,tobacco,tobacco
+103,minty,minty,minte
+104,pepper,pepper,pepper
+105,medicinal,medicinal,medicinal
+106,mossy,mossy,mosse
+107,fishy,fishy,fish
+108,smoky,smoky,smoke
+109,musky,musky,muske
+110,soapy,soapy,soape
+111,seedy,seedy,seede
+112,animal,animal,animal
+113,alkaline,,alkaline
+114,alkane,,alkane
+115,almond shell,,almond shell
+116,amine,,amine
+117,apple peel,,apple peel
+118,baked,,bak
+119,balsamic,,balsamic
+120,basil,,basil
+121,beet,,beet
+122,biscuit,,biscuit
+123,bitter,,bitter
+124,bitter almond,,bitter almond
+125,black currant,,black currant
+126,boiled vegetable,,boil vegetable
+127,box tree,,box tree
+128,bread,,bread
+129,broccoli,,broccoli
+130,brown sugar,,brown sugar
+131,burnt,,burnt
+132,burnt sugar,,burnt sugar
+133,cabbage,vegetable,cabbage
+134,camomile,,camomile
+135,camphor,,camphor
+136,cardboard,,cardboard
+137,carrot,,carrot
+138,cat,,cat
+139,chemical,,chemical
+140,cocoa,,cocoa
+141,coffee,,coffee
+142,cognac,,cognac
+143,cologne,,cologne
+144,cooked meat,,cook meat
+145,cooked potato,,cook potato
+146,cooked vegetable,,cook vegetable
+147,coriander,,coriander
+148,cotton candy,,cotton cande
+149,cream,,cream
+150,crushed bug,,crush bug
+151,curry,,curre
+152,dill,,dill
+153,dust,,dust
+154,earth,,earth
+155,ester,,ester
+156,ether,,ether
+157,fat,,fat
+158,fecal,,fecal
+159,fish,,fish
+160,flower,,flower
+161,foxy,,foxe
+162,fresh,,fresh
+163,fried,,fri
+164,fruit,,fruit
+165,garlic,,garlic
+166,gasoline,,gasoline
+167,grass,,gras
+168,green bean,,green bean
+169,green leaf,,green leaf
+170,green pepper,,green pepper
+171,green tea,,green tea
+172,herb,,herb
+173,hot milk,,hot milk
+174,hummus,,hummu
+175,lactone,,lactone
+176,leaf,,leaf
+177,lettuce,,lettuce
+178,licorice,,licorice
+179,lilac,,lilac
+180,magnolia,,magnolia
+181,malt,,malt
+182,mandarin,,mandarin
+183,marshmallow,,marshmallow
+184,meat,,meat
+185,meat broth,,meat broth
+186,medicine,,medicine
+187,menthol,,menthol
+188,metal,,metal
+189,mildew,,mildew
+190,mint,,mint
+191,mold,,mold
+192,moss,,mos
+193,mothball,,mothball
+194,muguet,,muguet
+195,must,,must
+196,mustard,,mustard
+197,nut,,nut
+198,nutmeg,,nutmeg
+199,oil,,oil
+200,onion,,onion
+201,orange peel,,orange peel
+202,orris,,orri
+203,paint,,paint
+204,paper,,paper
+205,pea,,pea
+206,peanut butter,,peanut butter
+207,peppermint,,peppermint
+208,pesticide,,pesticide
+209,phenol,,phenol
+210,pine,,pine
+211,popcorn,,popcorn
+212,prune,,prune
+213,pungent,,pungent
+214,putrid,,putrid
+215,rancid,,rancid
+216,resin,,resin
+217,roast,,roast
+218,roast beef,,roast beef
+219,roasted meat,,roast meat
+220,roasted nut,,roast nut
+221,rubber,,rubber
+222,seaweed,,seawe
+223,sharp,,sharp
+224,smoke,,smoke
+225,soap,,soap
+226,solvent,,solvent
+227,soy,,soy
+228,spearmint,,spearmint
+229,spice,,spice
+230,straw,,straw
+231,sulfur,,sulfur
+232,sweat,,sweat
+233,tallow,,tallow
+234,tar,,tar
+235,tart lime,,tart lime
+236,tea,,tea
+237,terpentine,,terpentine
+238,thiamin,,thiamin
+239,thyme,,thyme
+240,tomato leaf,,tomato leaf
+241,truffle,,truffle
+242,turpentine,,turpentine
+243,urine,,urine
+244,vinyl,,vinyl
+245,warm,,warm
+246,wax,,wax
+247,weak spice,,weak spice
+248,wet cloth,,wet cloth
+249,wine,,wine
+250,wood,,wood
+251,yeast,,yeast
+252,acid,,acid
+253,4-t-butyl cyclohexyl acetate,,4 t butyl cyclohexyl acetate
+254,absinthe,,absinthe
+255,absolute,,absolute
+256,acacia,,acacia
+257,acetate,,acetate
+258,acetic,,acetic
+259,acetoin,,acetoin
+260,acetone,,acetone
+261,acetophenone,,acetophenone
+262,acidic,,acidic
+263,acorn,,acorn
+264,acrid,,acrid
+265,acrylate,,acrylate
+266,acrylic,,acrylic
+267,adoxal,,adoxal
+268,air marine,,air marine
+269,alcoholic,,alcoholic
+270,aldehyde,,aldehyde
+271,aldehydic,,aldehydic
+272,algae,,algae
+273,alliaceous,,alliaceou
+274,allo-ocimenol,,allo ocimenol
+275,allspice,,allspice
+276,almost odorless,,almost odorles
+277,amber,,amber
+278,ambergris,,ambergri
+279,ambrette,,ambrette
+280,ambrette seed,,ambrette seed
+281,ambrette seed effect,,ambrette seed effect
+282,ammonia,,ammonia
+283,ammoniacal,,ammoniacal
+284,amyl butyl ester,,amyl butyl ester
+285,amyris,,amyri
+286,angelic,,angelic
+287,angelica,,angelica
+288,aniseed,,anise
+289,anisic,,anisic
+290,anisyl acetate,,anisyl acetate
+291,apple juice,,apple juice
+292,apple skin,,apple skin
+293,armoise,,armoise
+294,aromatic,,aromatic
+295,arrack,,arrack
+296,artichoke,,artichoke
+297,asprin,,asprin
+298,astringent,,astringent
+299,autumn,,autumn
+300,azalea,,azalea
+301,banana peel,,banana peel
+302,banana skin,,banana skin
+303,bark,,bark
+304,barley,,barlee
+305,bay oil,,bay oil
+306,bean,,bean
+307,beany,,beane
+308,beef gravey,,beef gravee
+309,beef juice,,beef juice
+310,beefy,,beefe
+311,beeswax,,beeswax
+312,bell,,bell
+313,benzaldehyde,,benzaldehyde
+314,benzophenone,,benzophenone
+315,benzyl acetate,,benzyl acetate
+316,benzyl propionate,,benzyl propionate
+317,bergamot,,bergamot
+318,bilberry,,bilberre
+319,bisabolene,,bisabolene
+320,black tea,,black tea
+321,blackberry,,blackberre
+322,blackcurrant,,blackcurrant
+323,bland,,bland
+324,bloody,,bloode
+325,bloomy,,bloome
+326,blue cheese,,blue cheese
+327,bluebell,,bluebell
+328,blueberry,,blueberre
+329,boiled beef,,boil beef
+330,boiled egg,,boil egg
+331,boiled meat,,boil meat
+332,boiled shrimp,,boil shrimp
+333,bois de rose,,boi de rose
+334,borneol,,borneol
+335,boronia,,boronia
+336,bouillon,,bouillon
+337,bourbon,,bourbon
+338,brassylate,,brassylate
+339,bread crust,,bread crust
+340,bready,,breade
+341,broom,,broom
+342,broth,,broth
+343,brothy,,brothe
+344,brown,,brown
+345,brussel sprouts,,brussel sprout
+346,buchu,,buchu
+347,burnt almonds,,burnt almond
+348,buttered,,butter
+349,buttermilk,,butter milk
+350,buttery,,butter
+351,butyrate,,butyrate
+352,butyric,,butyric
+353,cacao,,cacao
+354,caco,,caco
+355,cadaverous,,cadaverou
+356,cake,,cake
+357,camphoreous,,camphoreou
+358,cananga,,cananga
+359,candy,,cande
+360,cantaloupe rind,,cantaloupe rind
+361,capers,,caper
+362,caramellic,,caramellic
+363,carao,,carao
+364,cardamom,,cardamom
+365,carvone,,carvone
+366,cashew,,cashew
+367,casky,,caske
+368,cassia,,cassia
+369,cassie,,cassie
+370,cassis,,cassi
+371,castoreum,,castoreum
+372,cat-urine,,cat urine
+373,catty,,catte
+374,cauliflower,,cauliflower
+375,cayloxol,,cayloxol
+376,cedarleaf,,cedarleaf
+377,cedarwood,,cedarwood
+378,celery seed,,celere seed
+379,cereal,,cereal
+380,chamomile,,chamomile
+381,cheesy,,cheese
+382,cherry-pit,,cherre pit
+383,chicken,,chicken
+384,chicken coop,,chicken coop
+385,chip,,chip
+386,chlorine,,chlorine
+387,chloroform,,chloroform
+388,chrysanthemum,,chrysanthemum
+389,cigar box,,cigar box
+390,cinnamate,,cinnamate
+391,cinnamic,,cinnamic
+392,cinnamyl,,cinnamyl
+393,cistus,,cistu
+394,citral,,citral
+395,citralva,,citralva
+396,citric,,citric
+397,citronella,,citronella
+398,citronellol,,citronellol
+399,citronellyl acetate,,citronellyl acetate
+400,citrus peel,,citru peel
+401,civet,,civet
+402,clam,,clam
+403,clary,,clare
+404,clean,,clean
+405,clean cloth,,clean cloth
+406,clean clothes,,clean cloth
+407,clean cloths,,clean cloth
+408,clover,,clover
+409,concord grape,,concord grape
+410,cooked,,cook
+411,cooked beef juice,,cook beef juice
+412,cookies,,cooky
+413,cool,,cool
+414,cooling,,cool
+415,cortex,,cortex
+416,costus,,costu
+417,cotton,,cotton
+418,coumarinic,,coumarinic
+419,crab,,crab
+420,creosote,,creosote
+421,cresol,,cresol
+422,crispy,,crispe
+423,cucumber seed,,cucumber seed
+424,cucumber skin,,cucumber skin
+425,cultured dairy,,cultur daire
+426,cumin,,cumin
+427,cuminic acetate,,cuminic acetate
+428,cuminseed,,cuminse
+429,custard,,custard
+430,cut grass,,cut gras
+431,cut privet,,cut privet
+432,cyclamen,,cyclamen
+433,cypress,,cypres
+434,dairy,,daire
+435,damascone,,damascone
+436,damp,,damp
+437,dank,,dank
+438,dark,,dark
+439,date,,date
+440,decomposing cabbage,,decompos cabbage
+441,deep,,deep
+442,delicate,,delicate
+443,dewy,,dewe
+444,diffusive,,diffusive
+445,dihydrolinalool,,dihydrolinalool
+446,diphenyl oxide,,diphenyl oxide
+447,dirt,,dirt
+448,dirty,,dirte
+449,diterpene,,diterpene
+450,dried berry,,dri berre
+451,dried fruit,,dri fruit
+452,dried raspberry,,dri raspberre
+453,dry,,dry
+454,durian,,durian
+455,dusty,,duste
+456,egg,,egg
+457,elderflower,,elderflower
+458,elemi,,elemi
+459,estery,,estere
+460,ethereal,,ethereal
+461,ethyl benzoate,,ethyl benzoate
+462,ethyl safranate,,ethyl safranate
+463,eucalyptus,,eucalyptu
+464,eugenol,,eugenol
+465,everlasting,,everlast
+466,extremely sweet,,extreme sweet
+467,faint,,faint
+468,farnesol,,farnesol
+469,feet,,feet
+470,fenchyl,,fenchyl
+471,fenugreek,,fenugreek
+472,fermented,,ferment
+473,fern,,fern
+474,feta cheese,,feta cheese
+475,fig,,fig
+476,filbert,,filbert
+477,fine,,fine
+478,fir,,fir
+479,fir needle,,fir needle
+480,flat,,flat
+481,fleafy,,fleafe
+482,fleshy,,fleshe
+483,flower shop,,flower shop
+484,foliage,,foliage
+485,forest,,forest
+486,formyl,,formyl
+487,fragrant,,fragrant
+488,freesia,,freesia
+489,fresh air,,fresh air
+490,fresh outdoors,,fresh outdoor
+491,freshly bruised dock leaves,,fresh bruis dock leav
+492,freshly bruised mallow leaves,,fresh bruis mallow leav
+493,freshly bruised sage leaves,,fresh bruis sage leav
+494,freshly plowed soil,,fresh plow soil
+495,fungal,,fungal
+496,furfural,,furfural
+497,fusel,,fusel
+498,galbanum,,galbanum
+499,gassy,,gasse
+500,genet,,genet
+501,genista,,genista
+502,genuine,,genuine
+503,gin,,gin
+504,ginger,,ginger
+505,ginger root oil,,ginger root oil
+506,glue,,glue
+507,gooseberry,,gooseberre
+508,grain,,grain
+509,grape skin,,grape skin
+510,grapefruit peel,,grapefruit peel
+511,grapefruit skin,,grapefruit skin
+512,grassy,,grasse
+513,gravy,,grave
+514,greasy,,grease
+515,green onions,,green onion
+516,grilled,,grill
+517,grocery store,,grocere store
+518,ground,,ground
+519,guaiacol,,guaiacol
+520,guaiacwood,,guaiacwood
+521,hairy,,haire
+522,ham,,ham
+523,hard yolk,,hard yolk
+524,harsh,,harsh
+525,hawthorn,,hawthorn
+526,hay,,hay
+527,heather,,heather
+528,heavy,,heave
+529,heliotrope,,heliotrope
+530,heliotropin,,heliotropin
+531,herbal,,herb
+532,honeydew,,honeydew
+533,honeysuckle,,honeysuckle
+534,hot,,hot
+535,humid,,humid
+536,humus,,humu
+537,hydroxycitronellal,,hydroxycitronellal
+538,iactonic,,iactonic
+539,immortelle,,immortelle
+540,incense,,incense
+541,indole,,indole
+542,intense,,intense
+543,intensely,,intense
+544,iodine,,iodine
+545,ionone,,ionone
+546,irone,,irone
+547,isoeugenol,,isoeugenol
+548,isojasmone,,isojasmone
+549,jam preserves,,jam preserv
+550,jammy,,jamme
+551,jasmin,,jasmin
+552,jasmone,,jasmone
+553,juicy,,juice
+554,juniper,,juniper
+555,juniper berry,,juniper berre
+556,ketone,,ketone
+557,ketonic,,ketonic
+558,kiwi,,kiwi
+559,labdanum,,labdanum
+560,lactonic,,lactonic
+561,lamb,,lamb
+562,lard,,lard
+563,laundered cloths,,launder cloth
+564,laundry,,laundre
+565,lavandin,,lavandin
+566,leather,,leather
+567,leathery,,leathere
+568,leaves,,leav
+569,leek,,leek
+570,lemon peel,,lemon peel
+571,lemon rind,,lemon rind
+572,lemongrass,,lemongras
+573,liatrix,,liatrix
+574,light,,light
+575,lily of the valley,,lile of the vallee
+576,lime blossom,,lime blossom
+577,linalool,,linalool
+578,linalyl acetate,,linalyl acetate
+579,linden,,linden
+580,linen,,linen
+581,linseed,,linse
+582,liquor,,liquor
+583,logenberry,,logenberre
+584,longifolone,,longifolone
+585,lovage,,lovage
+586,low,,low
+587,lychee,,lychee
+588,mace,,mace
+589,macrocyclic,,macrocyclic
+590,mahogany,,mahogane
+591,mallow,,mallow
+592,maltol,,maltol
+593,malty,,malte
+594,mandarin skin,,mandarin skin
+595,maple syrup,,maple syrup
+596,marine,,marine
+597,matches,,match
+598,may blossom,,may blossom
+599,meadow,,meadow
+600,medical,,medical
+601,mellow,,mellow
+602,melon rind,,melon rind
+603,mentholic,,mentholic
+604,mercaptan,,mercaptan
+605,metallic,,metallic
+606,methyl acetophenone,,methyl acetophenone
+607,methyl dihydrojasmonate,,methyl dihydrojasmonate
+608,methyl ionone,,methyl ionone
+609,mignonette,,mignonette
+610,mild,,mild
+611,mild cooling,,mild cool
+612,milk,,milk
+613,milky,,milk
+614,mimosa,,mimosa
+615,moist,,moist
+616,molasses,,molass
+617,moldy,,molde
+618,moscato,,moscato
+619,moth ball,,moth ball
+620,mouldy,,moulde
+621,mousy,,mouse
+622,musk,,musk
+623,mutton,,mutton
+624,myrcene,,myrcene
+625,myrrh,,myrrh
+626,naphtha,,naphtha
+627,naphthalic,,naphthalic
+628,naphthelene,,naphthelene
+629,naphthyl,,naphthyl
+630,narcissus,,narcissu
+631,nasturtium,,nasturtium
+632,natural,,natural
+633,neroli,,neroli
+634,new car,,new car
+635,new mown hay,,new mown hay
+636,niobe,,niobe
+637,nitrile,,nitrile
+638,nopyl acetate,,nopyl acetate
+639,nut skin,,nut skin
+640,oak,,oak
+641,oakmoss,,oakmos
+642,ocimene,,ocimene
+643,odorless,,odorles
+644,old paper,,old paper
+645,old wood,,old wood
+646,olibanum,,olibanum
+647,opoponax,,opoponax
+648,orange blossom,,orange blossom
+649,orange flower,,orange flower
+650,orange juice,,orange juice
+651,orchid,,orchid
+652,oriental,,oriental
+653,outdoor,,outdoor
+654,overripe fruit,,overripe fruit
+655,oxyacetaldehyde,,oxyacetaldehyde
+656,ozone,,ozone
+657,painty,,painte
+658,palmarosa,,palmarosa
+659,parmesan,,cheese
+660,parsley,,parslee
+661,passion fruit,,passion fruit
+662,pastry,,pastre
+663,patchouli,,patchouli
+664,peach-pit,,peach pit
+665,pear skin,,pear skin
+666,peely,,pee
+667,pencil,,pencil
+668,penetrating,,penetrat
+669,peony,,peone
+670,peppery,,pepper
+671,peptone,,peptone
+672,petal,,petal
+673,petitgrain,,petitgrain
+674,petroleum,,petroleum
+675,phenolic,,phenolic
+676,pine needle,,pine needle
+677,pistachio,,pistachio
+678,plant,,plant
+679,pleasant,,pleasant
+680,plum skin,,plum skin
+681,pollen,,pollen
+682,pork,,pork
+683,powderful,,powderful
+684,powdery,,powdere
+685,powerful,,powerful
+686,privet,,privet
+687,privet blossom,,privet blossom
+688,profarnesal,,profarnesal
+689,propionic,,propionic
+690,pulpy,,pulpe
+691,pumpkin,,pumpkin
+692,pyrazine,,pyrazine
+693,pyridine,,pyridine
+694,radiant,,radiant
+695,radish,,radish
+696,raisin,,raisin
+697,raw,,raw
+698,red cedar,,red cedar
+699,red fruit,,red fruit
+700,red hots,,red hot
+701,red rose,,red rose
+702,repulsive,,repulsive
+703,reseda,,reseda
+704,resinous,,resinou
+705,rhodinol,,rhodinol
+706,rhubarb,,rhubarb
+707,rich,,rich
+708,ricotta,,ricotta
+709,ripe,,ripe
+710,ripe apricot,,ripe apricot
+711,roasted,,roast
+712,roasted almonds,,roast almond
+713,roasted in sugar syrup,,roast in sugar syrup
+714,roasted nuts,,roast nut
+715,roasted peanut,,roast peanut
+716,roasted peanuts,,roast peanut
+717,romano,,romano
+718,root,,root
+719,rootbeer,,rootbeer
+720,rooty,,roote
+721,roquefort cheese,,roquefort cheese
+722,rose acetate,,rose acetate
+723,rose bud,,rose bud
+724,rose de mai,,rose de mai
+725,rose dried,,rose dri
+726,rose flower,,rose flower
+727,rose oxide,,rose oxide
+728,rose petals,,rose petal
+729,rose water,,rose water
+730,rosemary,,rosemare
+731,rosy,,rose
+732,rotten,,rotten
+733,rotting,,rott
+734,rubbery,,rubbere
+735,rue,,rue
+736,rummy,,rumme
+737,russian,,russian
+738,rye,,rye
+739,saffron,,saffron
+740,salicylate,,salicylate
+741,salmon,,salmon
+742,salt,,salt
+743,sandal,,sandal
+744,sandalwood,,sandalwood
+745,sandy,,sande
+746,sap,,sap
+747,sappy,,sappe
+748,sarsaparilla,,sarsaparilla
+749,sassafrass,,sassafras
+750,sausage,,sausage
+751,savory,,umami
+752,sawdust,,sawdust
+753,sawen,,sawen
+754,scallion,,scallion
+755,sea,,sea
+756,sea breeze,,sea breeze
+757,seafood,,seafood
+758,seashell,,seashell
+759,seashore,,seashore
+760,seaside,,seaside
+761,sensual,,sensual
+762,shellfish,,shellfish
+763,shrimp,,shrimp
+764,sick,,sick
+765,sickening,,sicken
+766,skunk,,skunk
+767,skunky,,skunke
+768,slight,,slight
+769,slightly ethereal,,slight ethereal
+770,slightly fruity,,slight fruit
+771,slightly metallic,,slight metallic
+772,slightly roasted nut,,slight roast nut
+773,slightly rose,,slight rose
+774,slightly waxy,,slight waxe
+775,smoked,,smoke
+776,soft,,soft
+777,soil,,soil
+778,soup,,soup
+779,soupy,,soupe
+780,soybean,,soybean
+781,spring,,spr
+782,stem,,stem
+783,stinky,,stinke
+784,storax,,storax
+785,strong,,strong
+786,styrax,,styrax
+787,styrene,,styrene
+788,sugar,,sugar
+789,sulfide,,sulfide
+790,sulfury,,sulfur
+791,sweaty,,sweate
+792,sweet corn,,sweet corn
+793,syrup,,syrup
+794,taco,,taco
+795,tagette,,tagette
+796,tangerine,,tangerine
+797,tangy,,tange
+798,tarragon,,tarragon
+799,tarry,,tarre
+800,terpene,,terpene
+801,terpenic,,terpenic
+802,terpineol,,terpineol
+803,thiamine,,thiamine
+804,thuja,,thuja
+805,thujone,,thujone
+806,thymol,,thymol
+807,toasted,,toast
+808,tobacco-leaf,,tobacco leaf
+809,toffee,,toffee
+810,tolu,,tolu
+811,toluene,,toluene
+812,tonka,,tonka
+813,tree,,tree
+814,tropical,,tropic
+815,tropical fruit,,tropic fruit
+816,tuberose,,tuberose
+817,turnup,,turnup
+818,tutti frutti,,tutti frutti
+819,umami,,umami
+820,undecatriene,,undecatriene
+821,undecylenic,,undecylenic
+822,undergrowth,,undergrowth
+823,unpleasant,,unpleasant
+824,unripe banana,,unripe banana
+825,unripe fruit,,unripe fruit
+826,unripe plum,,unripe plum
+827,valerian,,valerian
+828,valeric,,valeric
+829,vanillin,,vanillin
+830,vegetable skin,,vegetable skin
+831,velvety,,velvete
+832,verbena,,verbena
+833,very faint,,vere faint
+834,very intense,,vere intense
+835,very mild,,vere mild
+836,very slight,,vere slight
+837,very strong,,vere strong
+838,very sweet,,vere sweet
+839,vetiver,,vetiver
+840,vetiver acetate,,vetiver acetate
+841,vine,,vine
+842,vinegar,,vinegar
+843,vinous,,vinou
+844,violet-leaf,,violet leaf
+845,wasabi,,wasabi
+846,watercress,,watercres
+847,watery,,watere
+848,waxy,,waxe
+849,weak,,weak
+850,weedy,,weede
+851,wet,,wet
+852,wild,,wild
+853,wine-lee,,wine lee
+854,winey,,winee
+855,yeasty,,yeaste
+856,ylang,,ylang
+857,cookedvegetable,,cookedvegetable
+858,cookedpotato,,cookedpotato
+859,roastednut,,roastednut
+860,roastedmeat,,roastedmeat
+861,roastbeef,,roastbeef
+862,peanutbutter,,peanutbutter
+863,burntsugar,,burntsugar
+864,cookedmeat,,cookedmeat
+865,meatbroth,,meatbroth
+866,greenbean,,greenbean
+867,applepeel,,applepeel
+868,orangepeel,,orangepeel
+869,crushedbug,,crushedbug
+870,tomatoleaf,,tomatoleaf
+871,boxtree,,boxtree
+872,greenleaf,,greenleaf
+873,tartlime,,tartlime
+874,wetcloth,,wetcloth
+875,cottoncandy,,cottoncande
+876,hotmilk,,hotmilk
+877,boiledvegetable,,boiledvegetable
+878,bitteralmond,,bitteralmond
+879,greenpepper,,greenpepper
+880,apple.rose,,apple rose
+881,weakspice,,weakspice
+882,brownsugar,,brownsugar
+883,almondshell,,almondshell
