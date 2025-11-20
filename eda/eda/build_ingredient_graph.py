@@ -5,6 +5,7 @@ import json
 import math
 import re
 from collections import Counter, defaultdict
+from difflib import get_close_matches
 from itertools import combinations
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
@@ -22,6 +23,7 @@ RECIPES_PATH = PROCESSED_DIR / "recipes_ingredients_clean.csv"
 INTERACTIONS_PATH = PROCESSED_DIR / "recipe_interactions_clean.csv"
 CONTENT_PATH = FOODB_DIR / "Content.csv"
 FOOD_PATH = FOODB_DIR / "Food.csv"
+FLAVOR_LOOKUP_PATH = PROCESSED_DIR / "compound_flavor_lookup.csv"
 
 INGREDIENT_PATTERN = re.compile(r"[^a-z0-9\s/]")
 
@@ -68,6 +70,38 @@ MANUAL_SYNONYMS = {
     "garlic clove": "garlic",
 }
 
+DESCRIPTORS = {
+    "fresh",
+    "dried",
+    "ground",
+    "chopped",
+    "sliced",
+    "minced",
+    "crushed",
+    "shredded",
+    "grated",
+    "cooked",
+    "raw",
+    "boneless",
+    "skinless",
+    "organic",
+    "unsalted",
+    "salted",
+    "reduced",
+    "fatfree",
+    "lowfat",
+    "large",
+    "small",
+    "medium",
+    "extra",
+    "freshly",
+    "lean",
+    "thickcut",
+    "softened",
+    "melted",
+    "room",
+}
+
 
 def ensure_dirs() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
@@ -81,6 +115,21 @@ def normalize_token(token: str) -> str:
     cleaned = INGREDIENT_PATTERN.sub("", cleaned)
     cleaned = re.sub(r"\s+", " ", cleaned)
     return cleaned.strip()
+
+
+def simplify_token(token: str) -> str:
+    words = token.split()
+    words = [w for w in words if w not in DESCRIPTORS]
+    simplified = " ".join(words) if words else token
+    simplified = simplified.strip()
+    # crude singularization
+    if simplified.endswith("ies"):
+        simplified = simplified[:-3] + "y"
+    elif simplified.endswith("es") and len(simplified) > 4:
+        simplified = simplified[:-2]
+    elif simplified.endswith("s") and len(simplified) > 3:
+        simplified = simplified[:-1]
+    return simplified.strip()
 
 
 def load_recipes() -> pd.DataFrame:
@@ -120,6 +169,7 @@ def build_ingredient_lookup(recipes: pd.DataFrame, food: pd.DataFrame) -> Tuple[
         .drop_duplicates(subset=["normalized_name"])
         .set_index("normalized_name")
     )
+    normalized_names = normalized_to_food.index.tolist()
 
     rows = []
     ingredient_to_food: Dict[str, int] = {}
@@ -132,8 +182,28 @@ def build_ingredient_lookup(recipes: pd.DataFrame, food: pd.DataFrame) -> Tuple[
             match_type = "manual"
             normalized = normalized_manual
 
-        if normalized in normalized_to_food.index:
-            food_row = normalized_to_food.loc[normalized]
+        candidates = [
+            normalized,
+            simplify_token(normalized),
+            simplify_token(simplify_token(normalized)),
+        ]
+        food_row = None
+        for candidate in candidates:
+            if candidate and candidate in normalized_to_food.index:
+                potential = normalized_to_food.loc[candidate]
+                food_row = potential.iloc[0] if isinstance(potential, pd.DataFrame) else potential
+                match_type = "manual_synonym" if match_type == "manual" else "exact"
+                break
+
+        if food_row is None:
+            fuzzy_target = candidates[-1] or normalized
+            match = get_close_matches(fuzzy_target, normalized_names, n=1, cutoff=0.93)
+            if match:
+                potential = normalized_to_food.loc[match[0]]
+                food_row = potential.iloc[0] if isinstance(potential, pd.DataFrame) else potential
+                match_type = "fuzzy"
+
+        if food_row is not None:
             rows.append(
                 {
                     "ingredient": ingredient,
@@ -143,7 +213,7 @@ def build_ingredient_lookup(recipes: pd.DataFrame, food: pd.DataFrame) -> Tuple[
                     "food_group": food_row["food_group"],
                     "food_subgroup": food_row["food_subgroup"],
                     "category": food_row["category"],
-                    "match_type": "exact" if match_type == "unmatched" else "manual_synonym",
+                    "match_type": match_type,
                 }
             )
             ingredient_to_food[ingredient] = int(food_row["id"])
@@ -206,6 +276,43 @@ def build_chemistry_vectors(compound_content: pd.DataFrame) -> Tuple[pd.DataFram
         compound_sets[int(food_id)] = set(top_compounds.tolist())
 
     return chemistry_vectors, compound_sets
+
+
+def build_flavor_profiles(compound_content: pd.DataFrame) -> pd.DataFrame:
+    if not FLAVOR_LOOKUP_PATH.exists():
+        return pd.DataFrame()
+
+    flavor_lookup = pd.read_csv(FLAVOR_LOOKUP_PATH)
+    if "canonical_flavor" not in flavor_lookup.columns:
+        flavor_lookup = flavor_lookup.rename(columns={"flavor_label": "canonical_flavor"})
+    flavor_lookup = flavor_lookup.dropna(subset=["canonical_flavor"])
+
+    flavor_df = compound_content.merge(
+        flavor_lookup[["compound_id", "canonical_flavor"]],
+        left_on="source_id",
+        right_on="compound_id",
+        how="left",
+    )
+    flavor_df = flavor_df.dropna(subset=["canonical_flavor"])
+    if flavor_df.empty:
+        return flavor_df
+
+    num_foods = compound_content["food_id"].nunique()
+    doc_freq = flavor_df.groupby("canonical_flavor")["food_id"].nunique()
+    idf = np.log((1 + num_foods) / (1 + doc_freq)) + 1.0
+
+    flavor_df = flavor_df.join(idf.rename("idf"), on="canonical_flavor")
+    flavor_df["tf"] = np.log1p(flavor_df["standard_content"].clip(lower=0))
+    flavor_df["score"] = flavor_df["tf"] * flavor_df["idf"]
+
+    profile = (
+        flavor_df.groupby(["food_id", "canonical_flavor"])["score"]
+        .sum()
+        .reset_index()
+        .rename(columns={"canonical_flavor": "flavor", "score": "tfidf"})
+    )
+    profile.to_csv(PROCESSED_DIR / "food_flavor_profile.csv", index=False)
+    return profile
 
 
 def compute_recipe_ratings(recipes: pd.DataFrame, interactions: pd.DataFrame) -> pd.Series:
@@ -318,6 +425,7 @@ def main() -> None:
     lookup_df, ingredient_to_food = build_ingredient_lookup(recipes, food)
     compound_content = load_compound_content()
     chemistry_vectors, compound_sets = build_chemistry_vectors(compound_content)
+    build_flavor_profiles(compound_content)
     mean_ratings = compute_recipe_ratings(recipes, interactions)
     pair_df = build_pair_stats(recipes, mean_ratings, ingredient_to_food, compound_sets)
     attach_food_metadata(pair_df, food, lookup_df)

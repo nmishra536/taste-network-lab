@@ -1,1 +1,5 @@
 .venv
+eda/eda/data/foodb_2020_04_07_csv/CompoundOntologyTerm.csv
+eda/eda/data/RAW_interactions.csv
+eda/eda/data/RAW_recipes.csv
+eda/eda/data/foodb_2020_04_07_csv/Content.csv
